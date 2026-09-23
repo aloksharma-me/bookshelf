@@ -1,0 +1,35 @@
+# Steve Jobs
+
+---
+
+### CHAPTER TWENTY-SIX – DESIGN PRINCIPLES – The Studio of Jobs and Ive
+
+#### Jony Ive
+- When Jobs gathered his top management for a pep talk just after he became iCEO in September 1997, sitting in the audience was a sensitive and passionate thirty-year-old Brit who was head of the company’s design team. Jonathan Ive, known to all as Jony, was planning to quit. He was sick of the company’s focus on profit maximization rather than product design. Jobs’s talk led him to reconsider.
+- Ive enrolled in Newcastle Polytechnic and spent his spare time and summers working at a design consultancy. One of his creations was a pen with a little ball on top that was fun to fiddle with. It helped give the owner a playful emotional connection to the pen.
+- Unlike some designers, he didn’t just make beautiful sketches; he also focused on how the engineering and inner components would work.
+- After graduation Ive helped to build a design firm in London, Tangerine, which got a consulting contract with Apple.
+- In 1992 he moved to Cupertino to take a job in the Apple design department. He became the head of the department in 1996, the year before Jobs returned, but wasn’t happy.
+- “There wasn’t that feeling of putting care into a product, because we were trying to maximize the money we made,” Ive said. “All they wanted from us designers was a model of what something was supposed to look like on the outside, and then engineers would make it as cheap as possible. I was about to quit.”
+- Jobs described to me his respect for Ive: The difference that Jony has made, not only at Apple but in the world, is huge. He is a wickedly intelligent person in all ways. He understands business concepts, marketing concepts. He picks stuff up just like that, click. He understands what we do at our core better than anyone. If I had a spiritual partner at Apple, it’s Jony. Jony and I think up most of the products together and then pull others in and say, “Hey, what do you think about this?” He gets the big picture as well as the most infinitesimal details about each product. And he understands that Apple is a product company. He’s not just a designer. That’s why he works directly for me. He has more operational power than anyone else at Apple except me. There’s no one who can tell him what to do, or to butt out. That’s the way I set it up.
+- Like most designers, Ive enjoyed analyzing the philosophy and the step-by-step thinking that went into a particular design. For Jobs, the process was more intuitive.
+- Ive was a fan of the German industrial designer Dieter Rams, who worked for the electronics firm Braun. Rams preached the gospel of “Less but better,”
+- “It takes a lot of hard work,” he said, “to make something simple, to truly understand the underlying challenges and come up with elegant solutions.”
+- That was the fundamental principle Jobs and Ive shared. Design was not just about what a product looked like on the surface. It had to reflect the product’s essence. “In most people’s vocabularies, design means veneer,” Jobs told Fortune shortly after retaking the reins at Apple. “But to me, nothing could be further from the meaning of design. Design is the fundamental soul of a man-made creation that ends up expressing itself in successive outer layers.”
+- As a result, the process of designing a product at Apple was integrally related to how it would be engineered and manufactured.
+- Ive described one of Apple’s Power Macs. “We wanted to get rid of anything other than what was absolutely essential,” he said. “To do so required total collaboration between the designers, the product developers, the engineers, and the manufacturing team. We kept going back to the beginning, again and again. Do we need that part? Can we get it to perform the function of the other four parts?”
+- At most other companies, engineering tends to drive design. The engineers set forth their specifications and requirements, and the designers then come up with cases and shells that will accommodate them. For Jobs, the process tended to work the other way. In the early days of Apple, Jobs had approved the design of the case of the original Macintosh, and the engineers had to make their boards and components fit.
+- After he was forced out, the process at Apple reverted to being engineer-driven. “Before Steve came back, engineers would say ‘Here are the guts’—processor, hard drive—and then it would go to the designers to put it in a box,” said Apple’s marketing chief Phil Schiller.
+- But when Jobs returned and forged his bond with Ive, the balance was again tilted toward the designers. “Steve kept impressing on us that the design was integral to what would make us great,” said Schiller.
+- On occasion this could backfire, such as when Jobs and Ive insisted on using a solid piece of stainless steel for the edge of the iPhone 4 even when the engineers worried that it would compromise reception. But usually the distinctiveness of its designs—for the iMac, the iPod, the iPhone, and the iPad—would set Apple apart and lead to its triumphs in the years after Jobs returned.
+
+#### Inside the Studio
+- Much of the design process is a conversation, a back-and-forth as we walk around the tables and play with the models.
+- Ever since he had a special power supply made for the Apple II, Jobs has cared about not only the engineering but also the design of such parts. His name is listed on the patent for the white power brick used by the MacBook as well as its magnetic connector with its satisfying click. In fact he is listed as one of the inventors for 212 different Apple patents in the United States as of the beginning of 2011.
+- Ive and Jobs have even obsessed over, and patented, the packaging for various Apple products.
+- U.S. patent D558572, for example, granted on January 1, 2008, is for the iPod Nano box, with four drawings showing how the device is nestled in a cradle when the box is opened. Patent D596485, issued on July 21, 2009, is for the iPhone packaging, with its sturdy lid and little glossy plastic tray inside.
+- “Steve and I spend a lot of time on the packaging,” said Ive. “I love the process of unpacking something. You design a ritual of unpacking to make the product feel special. Packaging can be theatre, it can create a story.”
+- Ive, who has the sensitive temperament of an artist, at times got upset with Jobs for taking too much credit, a habit that has bothered other colleagues over the years.
+- “He will go through a process of looking at my ideas and say, ‘That’s no good. That’s not very good. I like that one,’” Ive said. “And later I will be sitting in the audience and he will be talking about it as if it was his idea. I pay maniacal attention to where an idea comes from, and I even keep notebooks filled with my ideas. So it hurts when he takes credit for one of my designs.”
+
+---

@@ -1,0 +1,51 @@
+# [[Creative Selection – by Ken Kocienda]]
+
+---
+
+# 1 – The Demo
+*This chapter describes the backstory of how iPad's keyboard was designed by Ken Kocienda and Bas Ording. He describes the demo process with Steve, and his final verdict. He also writes about the role of demo reviews in product design and development process at Apple.*
+
+---
+
+>[!AI Summary]
+>Apple’s design process showcases the tension between innovation and simplicity. Steve Jobs’ insistence on stripping away nonessential features reflects Apple’s core philosophy: simpler designs often result in better user experiences, especially for non-technical users.
+>
+>The iterative development of the iPhone and iPad keyboards highlights the value of prototyping as a tool for informed decision-making. By creating functional demos, the team could evaluate real-world usability rather than relying on static visuals.
+>
+>The debate between larger keys for easier typing and a denser layout for quicker access to numbers and punctuation underscores the challenge of balancing competing priorities. Ultimately, Jobs’ decision to prioritize simplicity removed potential complexity, such as feature-specific settings, ensuring the product remained intuitive and aligned with users’ everyday needs.
+
+- As commonplace as virtual keyboards have become, in those days, the norm for smartphones was the BlackBerry, with its built-in hardware keyboard, its plastic chiclet keys, and its tactile thumb-typing. In contrast, the iPhone keyboard would offer tiny virtual keys that gave no feedback you could feel with your fingers.
+- Nobody at Apple wanted a repeat of the Newton, the handheld personal digital assistant the company marketed in the 1990s. Unreliable handwriting recognition gave the Newton a public relations black eye that never faded; the product never sold well, in large part due to its lackluster text entry; and the Newton never became the mass-market indispensable item it was intended to be. ^a5f672
+- Purple, the project code name for the in-development iPhone,
+- I never demoed my keyboard to Steve while our Purple smartphone was in development—someone higher up in the organization had always done it for me. The success of the iPhone keyboard had, apparently, enhanced my standing. My managers didn’t come right out and say so, but their invitation to meet with Steve, coming as it did only after I had proven myself by delivering iPhone autocorrection, showed me what it took to get direct access to the company’s famous CEO.
+- Whenever Steve reviewed a demo, he would say, often with highly detailed specificity, what he wanted to happen next. “Add more space between these two elements,” or “Replace the green in this graphic with blue,” or “None of this is working. Show me more options next time.” ^9bf8bc
+- Diplomacy was about thirty feet long and fifteen wide, drab and windowless. A couch in the middle of the room faced the door, roughly dividing the space into two squares. A pair of eight-foot-long tables were pushed against the walls in the half of the room closer to the door. ^95fda5
+- Diplomacy was a study in indifference. It was an important room, often used for CEO demos, but it was never the center of attention itself.
+- Scott’s position was not nearly as precarious. His relationship with Steve was solid, and their partnership extended back to their time at NeXT, the computer company Steve founded after being fired from Apple in 1985. Ever since Apple acquired NeXT in 1996, Steve and Scott had collaborated closely on software.
+- Steve valued Scott’s ability to imagine how new technologies might be integrated into our software products. Scott excelled at making these connections. If a programmer told Scott about an in-the-works software change to the touchscreen system that would make it possible to reliably differentiate between quick swiping gestures and slower panning gestures, Scott could visualize a user feature like swiping on an item in a list, say an email message, to delete
+- Greg Christie, one of his other senior managers, the day-to-day leader of the Human Interface team, the software designers responsible for the look and feel of iOS and the Mac, as well as the concepts behind how these systems functioned.
+- as the HI team leader, Greg brought breadth and depth to the design of our apps and user interfaces.
+- Bas Ording, a designer on the HI team. Bas possessed genius-level skills in illustration, animation, and demo creation, and his deftness contributed much to the intuitive feel of iOS devices. ^5c3b9d
+- Bas created inertial scrolling, the system of finger swiping that speeds up as you scroll repeatedly, glides to a rest when you stop touching the screen, and pleasantly bounces at the end of the list. ^d13699
+- few years earlier, Bas and I had collaborated on the design for the iPhone keyboard, and we’d struggled mightily with the constraints of the phone’s small screen size.
+- In our final design, we made punctuation and numbers available under a separate layout accessible by tapping a .?123 key.
+- We worried there would be howls and complaints about the inconvenience of this arrangement, but it turned out to be one of those things that people adapted to readily and accepted without much fuss.
+- I thought that people would like typing periods and commas without having to tap the .?123 key.
+- As I glanced back and forth repeatedly between my prototype iPad screen and the hardware keyboard connected to my Mac, I had an idea. I picked up the iPad, turned it to landscape, and held it up over the Mac keyboard. I noticed that the long side of the iPad screen was about the same width as the top row of letters on the Mac keyboard. It occurred to me that I could take the ten letters from this top keyboard row, QWERTYUIOP, and fit them across the width of the iPad screen. There wouldn’t be room for number keys above the top row of letters, but that might be all right, since it would result in a design like the iPhone in terms of key layout, but on the larger iPad display, the keys would be almost as big as those on a Mac laptop. This was in contrast to Bas’s approach, which was to scale down the full Mac keyboard layout to the size of the iPad display.
+- Now I had two interesting ideas. My concept would offer bigger keys that would be easier to tap, but users would have to hunt around for numbers and punctuation. Bas’s design with more keys would make numbers and punctuation easier to find, but each key would be smaller so they all fit on the display. I decided to make a demo so I could try out both.
+- I had been responsible for the day-to-day maintenance of the keyboard code until just a few weeks earlier, when I got promoted, so I still knew the software like the back of my hand. I could write the code for two new keyboards in a couple days. I’d add one for the Bas layout with more keys and one for my layout with bigger keys. Building the demo in this way conferred a huge benefit. Unlike the Director demo Bas had shown me, which was just pictures and animations, my demo would be a fully functioning keyboard that would work in any iOS app.
+- When you tapped the zoom button on our iPad demo, the keyboard you were looking at (say, mine) transitioned to the other one (his),
+- When you tapped on the zoom button, it made you feel like one keyboard was becoming the other.
+- Some people might like a layout with more keys, since they had an intuitive feel for where all the letters, numbers, and punctuation keys were located. Others might like the layout with bigger keys, since they had a tactile sense for where the keys were located under their fingers. It was the best of both worlds. The zoom key made it easy and pleasant to try both of these two new keyboards and switch between them—there was no need to dig through some preference setting elsewhere in the system—and Bas’s animation made the feature seem special.
+- “Well, I’ve been using these demos for the past few days, and I’ve started to like the keyboard layout with the bigger keys. I think I could learn to touch type on it, and I think other people could too. Autocorrection has been a big help.”
+- Then he announced the demo verdict. “OK. We’ll go with the bigger keys.”
+- [[Demo and working prototypes were key to Apple's product design and development process|Demos served as the primary means to turn ideas into software]]. ^da795b
+- In our case, Steve saw something he liked, but he found the demo unnecessarily complicated, so he unpacked it. This deconstruction wasn’t typical, but it was completely in character.
+- This push for simplicity had a purpose. Even though he was a high-tech CEO, Steve could put himself in the shoes of customers, people who cared nothing for the ins and outs of the software industry. He never wanted Apple software to overload people, especially when they might already be stretched by the bustle of their everyday lives.
+- He believed that stripping away nonessential features made products easier for people to learn from the start and easier to use over time.
+- [[Demo and working prototypes were key to Apple's product design and development process|Steve used demo reviews to judge for himself whether features met this basic usability standard]].
+- When he gave me the specific feedback to remove one of the two keyboards from my iPad demo, it had a cascade effect toward greater simplicity. It meant we could also take out the Bas zoom animation. We could also take away the zoom button. We could also take away possible confusion about which keyboard to show in different situations.
+- For example, should the software remember that you used the bigger-keys keyboard in the Notes app and the more-keys keyboard in Mail, and should these keyboard choices be restored in some situations but not in others? These questions became moot, and that’s good, because they don’t necessarily have easy answers.
+- Steve figured that the best way to answer difficult questions like these was to avoid the need to ask them.
+
+---

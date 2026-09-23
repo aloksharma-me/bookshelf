@@ -1,0 +1,20 @@
+# To-Do
+- [x] Success and failure of ideas (Introduction)
+- [x] Schemas (Chapter 1)
+- [x] Burying the lead – How reporters write stories (Chapter 1)
+- [x] Decision Paralysis – Why prioritisation and choice is difficult with more options (Chapter 1)
+- [x] Palm Pilot vs Newton PDA – How Apple lost the battle of Simplicity (Chapter 1)
+- [x] Getting people's attention with surprise and interest (Chapter 2)
+- [ ] Journalism 101 – How journalists write stories with the 5 Ws (Chapter 2) – also relate this to the earlier note of burying the lead. And also with the research process in design.
+- [x] Gap Theory of Curiosity (Chapter 2) – find parallels with goldilocks principle
+- [x] Sources of credibility (authorities, anti-authorities, statistics, audience) (Chapter 4)
+- [x] Sinatra Test (Chapter 4)
+- [ ] Emotional Tank analogy (Chapter 4)
+- [x] Semantic Stretch (Chapter 5)
+- [x] Maslow (Chapter 5)
+- [ ] Two models of making decisions (Chapter 5)
+- [ ] Strategies for making people care (Chapter 5)
+- [ ] Curse of Knowledge
+- [x] Benefit of stories on making ideas stick (Chapter 6)
+- [x] Mental simulation (Chapter 6)
+- [x] Three plots in stories (Chapter 6)

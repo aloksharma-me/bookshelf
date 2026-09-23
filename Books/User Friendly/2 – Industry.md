@@ -1,0 +1,68 @@
+# [[00 User Friendly – How the Hidden Rules of Design are Changing the Way We Live, Work & Play]]
+
+---
+
+# 2 – Industry
+- I asked him what, if anything, his childhood taught him about being a designer. He remembered how people changed during the war: how an adult neighbor stole a bunch of strawberries from a child, and a quiet boy who’d joined the Bosnian resistance transformed into a hot-tempered thug. “I assess people with a grain of salt,” Barbaric said. “I don’t know that I do it consciously. I just assume there’s more. There’s only one type of person I can’t understand, and it’s people who are dismissive.”
+- This was a designer’s way of looking at the world: the sense that if our better selves are within easier reach, then of course we’ll be better people.
+- When Gillespie’s mother would go out on house showings, she’d call her son, tell him where she was going, and say, “If I don’t call you back in twenty minutes, then you call the police.” Gillespie would nod and silently wonder what on earth he’d tell 911 to convince them that his mother was in trouble at the twenty-first minute of waiting.
+- Then Gillespie thought, “What if there were a button she could push herself, that would tell the police exactly where she was and who she was?”2 Gillespie called on Barbaric to design it.
+- After all, what did a bunch of young men really know about being a woman who felt threatened?
+- Johnstone’s message to Barbaric and Gillespie was that creating a new way to dial 911 wasn’t enough. You instead had to create an alternative to it.
+- The gadget would be a button the size of a dime that a person could pin anywhere—on a bra strap, a key fob. It would call the police if you tapped the button three times.
+- Rather than calling 911, a single press would beckon a network of friends or bystanders, whoever was closest, asking them to come find you and check in to see if you were okay. That’s what gave the product its name: Ripple.
+- “We need to recognize that if we don’t consider these psychological issues, we’re not going to get the right effect,” said Barbaric. The wrong effect would be a button that escalated a problem, when all a woman wanted was an easy pretext to get out of a difficult situation.
+- When Ripple made its debut on the Home Shopping Network in 2017, it had become a reinvention of the very idea of 911: At the push of a button, you could demand a call from a specialist, trained to figure out what kind of help you’d need.
+- Ripple had remained more than a user-friendly version of 911. It was a service for the great many times when you knew you needed help but simply didn’t know what kind of help you needed.
+- Ripple was ingenious insofar as it showed how you might solve a problem hiding in plain sight—and useful insofar as it illustrated how obvious problems aren’t obvious at all once they’re scrutinized.
+- The designers who create them assume that better product design can be wielded to solve almost any problem, even those on a societal scale.
+- Yet in smaller doses every day, we assume that we can usher in a better world by inventing new and better things. This is such a pervasive ideal that it seems self-evident. But it wasn’t always. You can trace it to the dawn of the twentieth century, when an abiding faith in consumption as social progress birthed a new profession: the industrial designer.
+- It was 1925 and Henry Dreyfuss, wearing his trademark brown suit, stood vigil in front of the sparkling new RKO theater. He was there to solve a problem that had bedeviled the theater’s owners back in New York: They’d invested a tidy sum in this new showplace and no one was coming in.
+- In an era before marketing consultants or business strategists, Dreyfuss had gotten the job simply because he seemed to know something about theater design. He was, at the time, just twenty-one, but already known as a wunderkind designer of Broadway shows. His success had allowed him to start styling himself more as an engineer of consumer demand.
+- The problem he’d been sent to fix—a theater design that wasn’t drawing crowds—ended up not being the problem at all. It wasn’t that the theater wasn’t nice enough. It was rather that, having been conceived on some drawing board in New York City, the theater was too nice for the practical and unassuming Iowans.
+- The next day, Dreyfuss had the carpet ripped out and replaced with a plain rubber mat. Then Dreyfuss returned to the theater and waited. First a couple of people came, then a few more, then a few more and a few more, until it was filled. His trick had worked.
+- By understanding someone else’s life—abashed, prideful, confused, curious—you could make their life better. By understanding how he or she thought, you could reach past the obvious problem and into the problem that they couldn’t quite articulate, the one that they might not even think to solve.
+- A designer, Dreyfuss would later say, was “a man of vision who is not a visionary.”
+- “I got to the point where I could guarantee with almost mathematical certainty that certain combinations of color, light, and line would bring a wave of applause when the curtain rose,” he later told a reporter.11
+- Just as he was registering his dissatisfaction, Dreyfuss began hearing about “industrial design,” a new profession invented by ad men such as Walter Dorwin Teague.
+- So while the profession of industrial design started literally with how good a product looked on the printed page, it began to reach into questions of what a product should be about—what kind of story it should tell to the consumer.
+- He’d even ginned up a slogan: “Design is the silent salesman.”
+- America had entered the war in 1917, just two years after Henry Ford had first unveiled his idea for an assembly line, at the Panama-Pacific Exposition in San Francisco.
+- His own factory lines initially broke down the car’s manufacture into eighty-four discrete, repeatable steps.
+- Before, workers buzzed around the skeleton of a car, and it grew in place. Now the workers would stay still as the car arrived in front of them—thus eliminating all the extraneous milling about, and whittling the time it took to build a car from twelve hours to a mere ninety minutes.
+- Machine-gun production climbed from 20,000 a year to 225,000; using Ford’s techniques, rifle production swelled to 500,000 a year, along with more than a billion bullets.
+- Richard Bach, the curator of industrial art at the Metropolitan Museum of Art in New York, neatly summarized that ethos in a lecture before his peers: “If all products were hand-made few of us could afford them. Therefore it is left for us to give the machine its proper place. If good designs are not available for the man in the street, the system which produces these designs must be undemocratic and wrong.”
+- The era’s undisputed master of time-saving was Frederick Winslow Taylor, whose school of “scientific management” advocated watching every action on a factory floor for wasted seconds.
+- After first hearing Taylor’s gospel at a three-hour speech, Frederick called on her readers to “eliminate lost motion” and standardize how long each chore took—from mixing a layer cake (ten minutes) to cleaning a bathroom (twenty minutes).
+- She called it a “moral responsibility” for women to demand improvements in their tools, for the betterment of all—“molding the future conditions under which purchasing must be done.”
+- Women were on the leading edge of consumers using things they bought, using their dollars to demand that products be more thoughtful.
+- E. B. French reported that at KitchenAid, a redesign of the mixer had cut its weight in half, cut the price, and made the mixer better looking, too. Sales had jumped by 100 percent.
+- For eighteen years, the Model T never changed, because Ford assumed that customer tastes were static—that the only way to improve the Model T was to make it more efficient every year, and thus cheaper to buy.
+- In 1921, Ford owned two-thirds of the American car market; by 1926, it was half that, thanks to General Motors, which offered a wealth of models in a range of colors and configurations.
+- The company shut down nearly all its factory lines, spending $18 million to retool them around a new car, the Model A, which came as a sedan or a convertible in a profusion of colors with myriad options such as a rearview mirror and a heater.
+- while the Model T launched Ford, the Model A saved it.
+- October 29, 1929, the Dow Jones Industrial Average fell by 12 percent, ringing in the Great Depression.26 This should have ended the nascent field of industrial design before it began. In fact, the opposite happened: Industrial design came to be seen as a cure for flagging markets, thanks in no small part to people like Henry Dreyfuss.
+- He was perhaps the first American designer to articulate and then act on the idea that design wasn’t just styling—it sprang from a knowledge about how things were made and what was possible.
+- Note: Henry Dreyfuss
+- By the early 1930s, he had worked himself up to interiors for airplanes—and managed to become one of the poster children for this odd new profession called industrial design.
+- This is the spine of the user-friendly world, unchanged whether you’re talking about smartphones or toothbrushes or driverless cars: a deference to the complexity of understanding people as they live.
+- Dreyfuss was gleeful when describing what miracles might come from a life made easier at the edges: a peanut butter jar with sloped shoulders so that every last bit could be scooped out with a spoon; a shaving brush with a handle of the right proportions so as not to mess your hand with lather; and a stove with cleverly shielded handles so that the users never burned their hands. And while these examples might sound banal to our ears, they were a revelation in their time.
+- arguing that leisure, gained by a few seconds here and there, contributed to social progress.
+- Christine Frederick herself was one of the loudest advocates for “consumption engineering.”
+- “This new expert would anticipate ‘changes in buying habits’ and create ‘artificial obsolescence’ by convincing people that ‘prosperity lies in spending, not saving.’”
+- Industrial design seemed like a miracle cure in Depression-era America.
+- He avoided any joints that would be hard to clean—which happens to be one of the chief design concerns in modern medical appliances.
+- And, in a nod to the consumer’s psychology that is now ubiquitous in modern apps and gadget interfaces, Dreyfuss bunched all the controls together so that the user could readily understand all its functions. Sears sold twenty thousand of them in six months.
+- Other designers had similar successes, and there were enough of them for manufacturers to begin to believe that designers could conjure demand from thin air.
+- In February 1934, near the peak of the Depression, Fortune ran an article on Dreyfuss, “New Product Designs Start Stampede,” in which the reporter claimed that a Dreyfuss-designed check-writing machine caused a salesman to weep and a repairman to faint.
+- These visions of success brought forth two intertwined goals: modernizing how products looked, and rethinking how they worked.
+- In America, the lens was more practical and market-oriented. It was coarser. Goods had to look different for a consumer to know they were indeed better. Thus, the men who roosted over the newfound profession of industrial design leaned heavily toward looks.
+- Where streamlining made airplanes slip through the air with less wind resistance, streamlined household goods eliminated “sales resistance.”
+- Dreyfuss’s belief in the market foretold a future in which businesses would see their fortunes bound up in how well they understood their products’ users.
+- For him, styling was secondary to both finding better solutions to problems people had taken for granted and the ceaseless pressures on the businesses that made those goods.
+- Dreyfuss described design as an act of translation between the companies that made things and the consumers who used them.
+- Dreyfuss himself approached his work with a showy, gonzo dedication to understanding whom he was designing for. To create tractors for John Deere, he learned to drive a combine and played at being a farmer; to create a sewing machine, he took sewing classes alongside the ladies.
+- The method was a precursor to modern design research—a sprawling industry that would eventually capitalize on the talents of anthropologists, psychologists, and social scientists.
+- What he didn’t have was a full-blown process that could embody his motivations, which were clear enough and defined around humans rather than machines. Decades later, that ethos would be known as “human-centered design.”
+
+---

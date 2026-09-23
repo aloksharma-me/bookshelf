@@ -1,0 +1,74 @@
+# [[01. Creativity, Inc. by Ed Catmull]]
+
+---
+
+# CHAPTER 6 –  FEAR AND FAILURE
+
+- Then somebody said the one thing that snapped everything into focus. We’ve talked so much over the years, in so many different ways, about Andy growing up and growing out of his toys. So what if we just leaped right into that idea directly? How would the toys feel if Andy left for college? While no one knew exactly how they’d answer that question, everyone present knew that we’d landed on the idea—the line of tension—that would animate Toy Story 3. 
+- “It’s really strange,” I told him. “We haven’t had a single big problem on this film.” Many people would have been happy with this news. Not Steve. “Watch out,” he said. “That’s a dangerous place to be.” 
+- I came to think of our meltdowns as a necessary part of doing our business, like investments in R&D, and I urged everyone at Pixar to see them the same way. 
+- All the time in my work, I see people resist and reject failure and try mightily to avoid it, because regardless of what we say, mistakes feel embarrassing. There is a visceral reaction to failure: It hurts. 
+- Mistakes aren’t a necessary evil. They aren’t evil at all. They are an inevitable consequence of doing something new (and, as such, should be seen as valuable; without them, we’d have no originality). 
+- he’s known around Pixar for repeating the phrases “fail early and fail fast” and “be wrong as fast as you can.” 
+- To be wrong as fast as you can is to sign up for aggressive, rapid learning. 
+- The better, more subtle interpretation is that failure is a manifestation of learning and exploration. 
+- If you aren’t experiencing failure, then you are making a far worse mistake: You are being driven by the desire to avoid it. And, for leaders especially, this strategy—trying to avoid failure by outthinking it—dooms you to fail. 
+- There’s a quick way to determine if your company has embraced the negative definition of failure. Ask yourself what happens when an error is discovered. Do people shut down and turn inward, instead of coming together to untangle the causes of problems that might be avoided going forward? Is the question being asked: Whose fault was this? If so, your culture is one that vilifies failure. Failure is difficult enough without it being compounded by the search for a scapegoat. 
+- How, then, do you make failure into something people can face without fear? Part of the answer is simple: If we as leaders can talk about our mistakes and our part in them, then we make it safe for others. You don’t run from it or pretend it doesn’t exist. 
+- Being open about problems is the first step toward learning from them. 
+- While we don’t want too many failures, we must think of the cost of failure as an investment in the future. 
+- It isn’t enough to pick a path—you must go down it. By doing so, you see things you couldn’t possibly see when you started out; you may not like what you see, some of it may be confusing, but at least you will have, as we like to say, “explored the neighborhood.” 
+- Let me explain what I mean by exploring the neighborhood. Years before it evolved into the funny, affecting tale of a fierce, shaggy behemoth (Sulley) and his unlikely friendship with the little girl it’s his job to scare (Boo), Monsters, Inc. was an altogether different story. 
+- As first imagined by Pete Docter, it revolved around a thirty-year-old man who was coping with a cast of frightening characters that only he could see. 
+- Fortunately, Pete had a basic concept that he held to throughout: “Monsters are real, and they scare kids for a living.” 
+- At first, the human protagonist was a six-year-old named Mary. Then she was changed to a little boy. Then back to a six-year-old girl. Then she was seven, named Boo, and bossy—even domineering. Finally, Boo was turned into a fearless, preverbal toddler. The idea of Sulley’s buddy character—the round, one-eyed Mike, voiced by Billy Crystal—wasn’t added until more than a year after the first treatment was written. 
+- “The process of developing a story is one of discovery,” Pete says. “However, there’s always a guiding principle that leads you as you go down the various roads. In Monsters, Inc., all of our very different plots shared a common feeling—the bittersweet goodbye you feel once a problem”—in this case, Sulley’s quest to return Boo to her own world—“has been solved. You suffer through it as you struggle to solve it, but by the end you’ve developed a sort of fondness for it, and you miss it when it is gone. I knew I wanted to express that, and I was eventually able to get it in the film.” 
+- When experimentation is seen as necessary and productive, not as a frustrating waste of time, people will enjoy their work—even when it is confounding them. 
+- The principle I’m describing here—iterative trial and error—has long-recognized value in science. When scientists have a question, they construct hypotheses, test them, analyze them, and draw conclusions—and then they do it all over again. 
+- There is an alternative approach to being wrong as fast as you can. It is the notion that if you carefully think everything through, if you are meticulous and plan well and consider all possible outcomes, you are more likely to create a lasting product. But I should caution that if you seek to plot out all your moves before you make them—if you put your faith in slow, deliberative planning in the hopes it will spare you failure down the line—well, you’re deluding yourself. 
+- While planning is very important, and we do a lot of it, there is only so much you can control in a creative environment. 
+- The overplanners just take longer to be wrong (and, when things inevitably go awry, are more crushed by the feeling that they have failed). 
+- There’s a corollary to this, as well: The more time you spend mapping out an approach, the more likely you are to get attached to it. 
+- THERE ARE ARENAS, of course, in which a zero failure rate is essential. 
+- Commercial flying has a phenomenal safety record because there is so much attention paid at every level to removing error, from manufacturing the engines to assembling and maintaining the planes to observing safety checks and the rules that govern air spaces. 
+- Likewise, hospitals have elaborate safeguards to make sure that they operate on the right patient, on the correct side of the body, on the right organ, and so on. 
+- Banks have protocols to prevent errors; manufacturing companies have a goal of eliminating production line errors; many industries set goals of having zero injuries. 
+- When it comes to creative endeavors, the concept of zero failures is worse than useless. It is counterproductive. 
+- So we try to make it less expensive to fail, thereby taking some of the onus off it. For example, we’ve set up a system in which directors are allowed to spend years in the development phase of a movie, where the costs of iteration and exploration are relatively low. (At this point, we’re paying the director’s and story artists’ salaries but not putting anything into production, which is where costs explode.) 
+- He wanted to tell the story of what happens when the last remaining male and female blue-footed newts on the planet are forced together by science to save the species—but they can’t stand each other. When he got up and pitched the idea, we were blown away. 
+- As we put it into production, we decided to treat it as an experiment: What if we brought in new people from the outside with fresh ideas, gave them the charter of rethinking the entire production process (and gave them experienced teammates to help carry this out), and then put them two blocks away from our main campus to minimize their contact with those who might encourage them to adopt the status quo? In addition to making a memorable movie, we were looking to challenge and improve our processes. We called the experiment the Incubator Project. 
+- But within the production, unbeknownst to us, the story was stalled. It had the beginnings of a plot—our hero gets his wish when scientists catch him a mate in the wild and bring her back to the lab—but when the unhappy couple ends up back in the natural world, the film began to fall apart. 
+- That fact evaded us at first because of the separateness of the enterprise. 
+- When we finally figured this out—after a few experienced Pixar people were sent in to help and reported back about what they saw—it was too late. 
+- So in May 2010, with heavy hearts, we shut it down. 
+- While experimentation is scary to many, I would argue that we should be far more terrified of the opposite approach. Being too risk-averse causes many companies to stop innovating and to reject new ideas, which is the first step on the path to irrelevance. 
+- If it is true that all the movies suck at first, and if Pixar’s way is to give filmmakers—not the Braintrust—the ultimate authority to fix what’s broken, then how do you know when to step in? The criteria we use is that we step in if a director loses the confidence of his or her crew. 
+- If the crew is confused, then their leader is, too. 
+- To know when to act, we much watch carefully for signs that a movie is stuck. Here is one: A Braintrust meeting will occur, notes will be given, and three months later, the movie will come back essentially unchanged. 
+- But any failure at a creative company is a failure of many, not one. 
+- There are two parts to any failure: There is the event itself, with all its attendant disappointment, confusion, and shame, and then there is our reaction to it. 
+- It is this second part that we control. Do we become introspective, or do we bury our heads in the sand? Do we make it safe for others to acknowledge and learn from problems, or do we shut down discussion by looking for people to blame? 
+- So in March 2011, Jim Morris, Pixar’s general manager, arranged an off-site with the studio’s producers and directors—twenty or so people in all. On the agenda was one question: Why did we have so many meltdowns in a row? We weren’t looking to point fingers. We wanted to rally the company’s creative leadership to figure out the underlying problems that were leading us astray. 
+- “Is there a way, other than Braintrust notes, that we could do a better job of teaching our directors the importance of an emotional arc?” asked one person. “I feel like I should be formally sharing my experience with other people,” said another. 
+- Then we turned to the future. We identified individuals who we thought had the potential to become directors, listing their strengths and weaknesses and being specific about what we would do to teach them, give them experience, and support them. 
+- Instead of hoping that our director candidates would absorb our shared wisdom through osmosis, we resolved to create a formal mentoring program that would, in a sense, give to others what Pete and Andrew and Lee had experienced working so closely with John in the early days. 
+- That’s the real goal: Can we teach in a way that our directors will think smart when we’re not around?” 
+- The goal, then, is to uncouple fear and failure—to create an environment in which making mistakes doesn’t strike terror into your employees’ hearts. How, exactly, do you do that? 
+- It is easy to be critical of the micromanaging many managers resort to, yet we must acknowledge the rock and the hard place we often place them between. If they have to choose between meeting a deadline and some less well defined mandate to “nurture” their people, they will pick the deadline every time. 
+- Given these realities, managers typically want two things: (1) for everything to be tightly controlled, and (2) to appear to be in control. 
+- I’ve known many managers who hate to be surprised in meetings, for example, by which I mean they make it clear that they want to be briefed about any unexpected news in advance and in private. 
+- In many workplaces, it is a sign of disrespect if someone surprises a manager with new information in front of other people. 
+- But what does this mean in practice? It means that there are pre-meetings before meetings, and the meetings begin to take on a pro forma tone. It means wasted time. It means that the employees who work with these people walk on eggshells. It means that fear runs rampant. 
+- Getting middle managers to tolerate (and not feel threatened by) problems and surprises is one of our most important jobs; 
+- The antidote to fear is trust, and we all have a desire to find something to trust in an uncertain world. 
+- Trusting others doesn’t mean that they won’t make mistakes. It means that if they do (or if you do), you trust they will act to help solve it. 
+- Fear can be created quickly; trust can’t. 
+- The Braintrust and various groups within Pixar have gone through difficult times together, solved problems together, and that is how they’ve built up trust in each other. Be patient. Be authentic. And be consistent. The trust will come. 
+- In many organizations, managers tend to err on the side of secrecy, of keeping things hidden from employees. 
+- When you instantly resort to secrecy, you are telling people they can’t be trusted. When you are candid, you are telling people that you trust them and that there is nothing to fear. 
+- To confide in employees is to give them a sense of ownership over the information. 
+- Are there ways to prove to your employees that your company doesn’t stigmatize failure? 
+- As Andrew Stanton puts it, “It’s gotten to the point that we get worried if a film is not a problem child right away. It makes us nervous. We’ve come to recognize the signs of invention—of dealing with originality. We have begun to welcome the feeling of, ‘Oh, we’ve never had this exact problem before—and it’s incredibly recalcitrant and won’t do what we want it to do.’ That’s familiar territory for us—in a good way.” 
+- Management’s job is not to prevent risk but to build the ability to recover. 
+
+---

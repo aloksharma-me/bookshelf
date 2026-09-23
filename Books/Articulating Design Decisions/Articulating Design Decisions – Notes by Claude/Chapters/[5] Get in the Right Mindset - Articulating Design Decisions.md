@@ -1,0 +1,121 @@
+# [5] Get in the Right Mindset — Articulating Design Decisions
+
+Source: [[Articulating Design Decisions - Tom Greever]]
+
+> [!Summary]
+> How you respond starts with your internal posture. Your role is to lead a conversation toward great design, not to passively absorb feedback. That means giving up control (you rarely have the final say, and letting go keeps you from taking things personally), recognizing that stakeholders will go on to represent your work to others — so you must equip them with the vocabulary and confidence to do it well — and checking your ego so you can genuinely value other people's ideas. The single most powerful habit is to lead with a YES, an idea rooted in improv: agreement keeps the conversation moving and creates a collaborative space, though you should avoid "Yes, but..." which reads as a no. Establish a positive persona (confidence without arrogance, being yourself, not taking yourself too seriously), and change your vocabulary — drop "You're wrong," "From a design perspective...," "like/don't like," and unnecessary jargon. Finally, make a graceful transition before responding using "Thank, Repeat, Prepare."
+
+**Highlights**
+
+### Understand Your Role
+
+- Our job is not to just absorb what's thrown at us--to prepare for an onslaught of changes that need to be managed--but instead to guide the conversation to a positive place and be a champion for great design.
+
+### Give Up Control
+
+- No matter what we think, we don't usually have the final say when it comes to our designs. We have a significant amount of input into the process, but at the end of the day, there is always someone else who can overrule us.
+- Letting go of control creates an emotional release so you can keep your wits about you and not take everything so personally.
+- What does that look like in practice? It's nothing more than taking on the attitude that your work is not your own. It's making the simple recognition that you can't control everything. It's admitting that you need help from other people to create the best experience. It's a mental practice of taking two steps back, getting out of your bubble, and walking around to the other side of the table to sit with your stakeholder.
+
+### Stakeholders Represent Our Work
+
+- As facilitators of a conversation on design, we also bear some responsibility to help our stakeholders prepare for their own meetings.
+- It's common for someone on our projects to leave our meeting and go talk to someone else about it.
+- We need to set our stakeholders up for success so they can confidently represent our work to other people.
+
+### Taxation without representation
+
+- Since I was present, I was able to explain why I did what I did and most of the opinions faded.
+
+### Engineering confidence
+
+- So part of our role is giving our stakeholders the tools and vocabulary they need to go represent our work to someone else. Because if we can give them the confidence to represent our work well--if they really understand our thinking enough to talk to someone else about it--then they're likely to support us as a byproduct.
+
+### Check Your Ego at the Door
+
+- We can't think that we're the only ones with good ideas, that we have all the best solutions, or that there is only one way (our way) to accomplish the goals.
+- There's a delicate balance between believing that we have the best ideas and recognizing that they aren't the only ideas. The challenge is to make solid recommendations while also taking seriously the suggestions and ideas of other people.
+- The red flag is when you find yourself thinking that your solution is so much better that you don't see value in the other person's suggestion.
+- When our egos are preventing us from seeing the value of other ideas, it will manifest itself in the form of excuses for why the other person's suggestion is not valid. For example, you might find yourself thinking, "They don't understand technology," "They're not our target user," or "They don't know anything about design."
+- Removing your ego makes you less defensive and therefore better prepared to respond appropriately.
+
+### Lead with a YES
+
+- There is no better way to foster this atmosphere of collaboration than to always lead with a YES.
+- "When someone offers you a challenge, don't think of all the reasons why you can't do it. Instead, say, 'Yes!' Then figure out how you'll get it done." This is the foundational principle for leading with a yes.
+- This principle also has roots in improvisational comedy. One common rule for improv is that each actor must agree with the other: whatever one actor brings, the other must go along with. Why? Because if one actor says no, it will completely shut down the sketch; they'll have nowhere to go. Guess what? Our meetings with stakeholders are also improvisations. If we expect them to head in a positive direction, then it's critical that we always lead with a yes.
+
+### Developing a Yes Reflex
+
+- Most of us have a "no reflex" to new and creative ideas that seem impossible.
+- The purpose of honing your "yes reflex" is not to give in to every request from our stakeholders or to just let them have their way. It is to create a space where everyone recognizes that we're all on the same team, accomplishing the same goals, and we can work together toward the best solution.
+- Leading with a yes gives you time to figure out if you can really pull it off... We're not making the case for having no boundaries; we're describing how innovation happens.
+- And innovation happens in places where "No" is seldom heard...
+- If you understand the problem your stakeholder is trying to solve, but you disagree with the solution they propose, leading with a yes might sound like, "Yes, I completely agree with you that we need to reconsider the placement of this UI control." We're not saying that their precise solution is correct and that we will implement it in that way. We're only agreeing on the problem because it might still be possible that another approach will solve it.
+- It's a common problem for people to offer ideas without any responsibility. People on the outside will criticize things they have a limited view of. But if you give people the chance to be part of the solution, they will either take you up on it or they will see how their suggestion impacts everyone else.
+
+### Putting It into Practice
+
+- One caveat is to avoid following the word "yes" with the word "but"--it turns out that "Yes, but..." is just another way of saying no, and most people will hear it that way.
+
+### Establish a Positive Persona
+
+### Have Confidence, Not Arrogance
+
+- If you have confidence in yourself and your designs, people will trust you and give you more freedom.
+- Being confident is being proud of your work while also understanding that you're not the only smart person in the room.
+- People without confidence don't smile; they look concerned, worried, upset, or distant.
+
+### Just Be Yourself
+
+- It's also important to learn to be yourself around stakeholders. No one likes it when they have the feeling that the other person is being fake.
+
+### Don't Take Yourself So Seriously
+
+- Learn to relax: not everyone thinks as seriously about your work as you do.
+
+### Orient Yourself Toward Others
+
+### Change Your Vocabulary
+
+### "You're Wrong"
+
+- If you need to disagree, find ways to communicate that disagreement as an alternate idea or a different perspective.
+
+### "From a Design Perspective..."
+
+- Don't start any sentence with "From a design perspective..." because that's usually just another way of saying "from my perspective." Remember, we don't care about your perspective; we care about the user's perspective.
+- You do not want to create a separation between your expertise and that of the stakeholders. We're all on the same team. "From a design perspective..." doesn't reinforce that, so strike it from your vocabulary.
+
+### "Like" and "Don't Like"
+
+- Don't talk about what you like or don't like; instead, focus on what works and what doesn't work.
+- This is more difficult if you're discussing the visual design of an application, rather than specific flows or general usability. If the express purpose of the meeting is to review the visual design, you still need to find ways to communicate why you think the visuals work or don't work rather than why you like or don't like them.
+
+### Too Much Jargon
+
+- Finally, avoid using industry-specific jargon as much as possible. Instead, find words that the average person can understand so that we're all on the same page.
+- Many stakeholders don't share in our design-web-app culture of vocabulary, so before we respond, we should take the time to filter our response for words that might be unclear.
+
+### Make a Transition
+
+- The point is to provide a transition only, not a long introduction. I recommend a simple approach called "Thank, Repeat, Prepare." Each of these three elements should be part of one quick statement.
+
+### Thank
+
+- The first thing you should do is thank your stakeholders. It's the most polite way to get from what they said to what you want to say, and it recognizes that their time is both valuable and appreciated.
+
+### Repeat
+
+- Next, briefly summarize what the stakeholders just said if you haven't already.
+
+### Prepare
+
+- Lastly, tell your stakeholders that you're about to respond to their feedback. Perhaps it seems obvious (and it is), but the transition is meant to provide a segue for everyone.
+- You need to give them some insight about the content of your response; you're foreshadowing what's to come. You should tell them not only that you're going to respond, but how and what you plan to say.
+- Here are some other examples that might deal with more specific feedback:
+- "Thanks for pointing out the differences between the existing app and our new designs. You're right that there are some important things we should consider, and I want you to know we put a lot of thought into how we designed it, so I'd like to explain to you why we did what we did with the grid views."
+- "Thanks for being up front that you're concerned about our implementation of the cart and checkout flow. I'm going to address each of your points because we had some very specific reasons for doing it this way that I want you to be aware of. I think you'll agree that this is going to increase conversion once you understand our thought process."
+- "Thanks for your viewpoint on the home page. You've definitely given a lot of great feedback and I'd like to go through it all, if that's okay. Our thinking about the layout had more to do with our long-term vision and some other initiatives that we expect to see down the road, so it's important for you to know why we approached it in this way."
+- The point is this: it's not enough to just launch right into a defense of your work. You must take the time to get in the right frame of mind, stay positive, and make a graceful transition to what's next.
+- In summary, to get into the right mindset, we need to: Realize that our role is to lead a conversation about design solutions, not receive feedback Give up control of the outcome so that we can allow other people to provide their perspective on the project Check our ego at the door so that we can be open to other people's ideas Lead with a yes so that we create an atmosphere of agreement and cooperation Develop a positive persona so that we can win people over with our own unique style Change our vocabulary so that we avoid tainting our response with potential miscommunications Form a transitional phrase so that we can set the stage for what we're about to say

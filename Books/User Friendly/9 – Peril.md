@@ -1,0 +1,61 @@
+# [[00 User Friendly – How the Hidden Rules of Design are Changing the Way We Live, Work & Play]]
+
+---
+
+# 9 – Peril
+- The Like button is the single most ubiquitous interface of the twenty-first century, used every day by hundreds of millions of people.
+- The News Feed had recently been rolled out, and an engineer, Akhil Wable, had noticed how people had invented their own way of spreading an idea. The only actions available on the News Feed were to either post or comment. So when people got excited enough about something they’d seen, they’d take a screenshot of it and repost it on their own feed. Facebook’s employees called that “feed-bombing.”
+- “We thought, What is the simplest, friendliest way to express positivity?” The team dubbed it the Awesome button.
+- Finally, Zuckerberg himself tired of the debates, declared that it would be called the Like button, and that it would be denoted with a thumbs-up icon.
+- The web was a vastly different place at the time. User feedback didn’t reach much beyond Reddit’s up/down voting system and five-star reviewing platforms on sites such as eBay.
+- The Like button augured an entirely new model of feedback, and a new way to gauge what people wanted and what they might want next. Today, that idea dominates the digital world, from hearts to +1s to emojis.
+- Rosenstein
+- At Google, after getting frustrated that it was hard to see what other people were working on, he invented Drive, the product that now allows people to share files in the cloud.
+- Then, after his boss told him that it would be technically impossible to embed a chat window in Google’s email window, he spent sleepless nights coding and invented Gchat.
+- Skinner’s obsession with reducing our personalities to a mere product of our environment is worth remembering—especially since he also discovered the single most troubling psychological mechanism of the user-friendly world. Skinner found it by asking a simple question about the rats: Would they respond more quickly if the food rewards came predictably, or if they were meted out randomly? It seemed obvious that the former would be a better goad—the rat should act more quickly if a reward was sure to follow. In fact, the opposite was true. The rats were attentive enough when the food rewards came regularly; but when they came randomly, the rats went wild.
+- Skinner proudly noted that his fabulous behavior engines could finally explain the universal human obsession with gambling. What was a slot machine—or any other game of chance—if not a Skinner box? You pulled a lever, and you never knew what you would get.
+- variable rewards
+- Consider, too, how we celebrate underdogs in almost every facet of culture. In sports and books and movies and politics, from the very earliest stories ever written, we root for underdogs when they win because they don’t simply reaffirm the world we already know. Instead, the underdog-made-good creates an altogether different world. When underdogs win, it’s ecstasy.
+- One person to notice the eerie connection between Skinner’s work and our digital lives was the writer Alexis Madrigal, who in 2013 read a book by the anthropologist Natasha Schüll about the design of slot machines and saw striking parallels in the design of apps.
+- increasing ‘time spent’ is the currency they compete for.”
+- Today, Skinner boxes that offer the prospect of variable rewards are everywhere, and we call them by their brand names: Facebook. Instagram. Gmail. Twitter.
+- Each of them has some kind of variation on the ubiquitous pull-to-refresh gesture—pull the screen down, or tap a button, and a new batch of updates loads, ready for your consumption. That gesture is nothing if not a modified lever at a slot machine. Sometimes you get nothing for your efforts. It’s the variability that hooks you, day after day.
+- The smartphone is nothing if not a modern Skinner box.
+- But unlike slot machines, our personal Skinner boxes don’t offer the prospect of riches. The market has figured out exactly the bare minimum that will keep us coming back.
+- The most enduring businesses in the world have always been built upon addiction—alcohol, tobacco, drugs. The trick of the user-friendly world is that not only are we addicted, the drug doesn’t have to be bought. The drug lies in our own brains, hardwired there by evolution.
+- whereas twenty years ago, buying a cutting-edge VCR or TV meant also getting a thick instruction manual with which to decipher all its newfangled capabilities, we now expect to be able to pick up some of the most complex machines ever made—our smartphones—and be able to do anything we want, without ever having been told how.
+- addiction itself was usually framed as “engagement,” a Silicon Valley byword for having users constantly coming back for more.
+- Fogg asked his students to build their own Facebook games, and to target their users with a variety of psychological principles.
+- Together, the seventy-five students managed to garner $1 million in revenue and 16 million users within ten weeks.
+- What made some of those games so irresistibly sticky? He codified the principles in just three elements: motivation, trigger, and ability. Create a motivation, no matter how silly or trivial. Provide a trigger that lets a user sate that motivation. Then make it easy to act upon it.
+- one of Fogg’s disciples, Nir Eyal, rocketed to guru status in Silicon Valley by popularizing Fogg’s insights in a book titled Hooked.)
+- After a lengthy investigation, the New York Times journalist Noam Scheiber discovered that the company was using insights from behavioral economics to get its drivers to work longer hours.25 One trick capitalized on the human preoccupation with goals. Drivers would be prompted with messages such as “You’re $10 away from making $330 in net earnings. Are you sure you want to go offline?”
+- Uber and Lyft both tantalize drivers with another feature, which Uber calls “forward dispatch,” that queues up the next drive before the present one has ended—much like Netflix queues up the next episode of a series.
+- “It requires very little effort to binge on Netflix; in fact, it takes more effort to stop than keep going,” noted the scholars Matthew Pittman and Kim Sheehan.
+- Alan Cooper, the eminent user-experience designer who came up with the idea of user personas, has called this the Oppenheimer moment for product design.
+- Oppenheimer had helped birth the atomic bomb so that the United States might end World War II. But once he saw the first mushroom cloud at the Trinity test, he realized that the intent behind what he’d created was irrelevant in the face of how people used that creation.
+- “Today, we, the tech practitioners, those who design, develop, and deploy technology, are having our own Oppenheimer moments,” Cooper once told a crowd of user-experience designers working in a field he himself had helped invent. “It’s that moment when you realize that your best intentions were subverted, when your product was used in unexpected and unwanted ways.”
+- Read’s central premise, the one that we know to be true, was that Facebook doesn’t spread information so much as it spreads affirmation.
+- A post falsely claiming that the pope endorsed Trump got more than 868,000 Facebook shares, while the story debunking it had 33,000.
+- Lies spread far better than truth, because a lie that we can believe in is so much easier to share than a truth that requires another click to discern.
+- Posts dividing the world into ‘us’ and ‘them’ rise naturally, tapping into users’ desire to belong. Its gamelike interface rewards engagement, delivering a dopamine boost when users accrue likes and responses, training users to indulge behaviors that win affirmation.
+- And because its algorithm unintentionally privileges negativity, the greatest rush comes by attacking outsiders: The other sports team. The other political party. The ethnic minority.”
+- Moreover, on the street, people might think awful things, but they’re held in check by the rhythms and mores of the commons.
+- Facebook, by contrast, makes it easy to say awful things in public.
+- Cambridge Analytica itself wasn’t an innovator. It had been inspired by Michal Kosinski, a young psychologist at Cambridge University.
+- Kosinski earned his Ph.D. in psychology and his master’s in psychometrics.
+- One of that field’s founding assumptions was that **all the wooly complexity of human personality could be boiled down to the [[Complexity of human personalities can be summarised in 5 traits with acronym OCEAN|Big Five simple traits, known by the acronym OCEAN]], that each of us possesses to varying degrees: openness, the willingness to engage in new experiences; conscientiousness, or perfectionism; extroversion; agreeableness, how considerate and cooperative a person was; and neuroticism, or how easily upset a person could become.** ^b4e3e6
+- The results were stunning. With just a few dozen likes, Kosinski’s model could guess with 95 percent accuracy a person’s race. Sexual orientation and political party were almost as close, at 88 percent and 85 percent. Marital status, religiosity, cigarette smoking, drug use, and even having separated parents were also within the model’s predictive reach.
+- Then things got eerie. Seventy likes were enough to predict a person’s responses on a personality quiz even better than their friends could. Just 150 likes would be enough to outdo the person’s parents. At 300 or more likes, you could predict nuances of preference and personality unknown even to a person’s partner.
+- Kosinski had shown that if you knew a person’s Facebook likes, you knew their personality.
+- By 2016, Cambridge Analytica’s CEO was claiming that it had profiled the personalities of nearly every adult in the United States—220 million people. It has been estimated that during the election, the firm was testing 40,000 to 50,000 ads a day to better understand what would motivate voters—or keep voters who didn’t like Trump from voting at all.
+- Designs seem inevitable when they anticipate how we’ll use them so well that we don’t see the design at all.
+- Modern user experience is becoming a black box. This is an iron law of user-friendliness: The more seamless an experience is, the more opaque it becomes.
+- automation paradox,
+- As planes became more automated, the pilots themselves were less and less practiced in flying their planes. They reacted less capably when something went awry or when something unforeseen occurred. The result was that machines had to be more automated to compensate for the increased failings of their human partners.
+- The automation paradox is that automation, which was meant to maximize what a human could do, actually worked to sap our capabilities. Automation was meant to make humans more capable, freer to focus on the complex tasks our brains are good at. The automation paradox suggests that as machines make things easier for us—as they take more friction from our daily life—they leave us less able to do things we once took for granted.
+- But “human need” isn’t the same as convenient consumption.
+- The solution to preventing human skills from withering in the face of increasing automation is to keep humans in the loop and in control at decisive moments so that their underlying skills stay honed.
+- Designers now have to confront the alarming possibility that user-friendliness helps us avoid consequences by abstracting away any downstream impacts.
+
+---

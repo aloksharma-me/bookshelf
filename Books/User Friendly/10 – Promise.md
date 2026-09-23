@@ -1,0 +1,25 @@
+# [[00 User Friendly – How the Hidden Rules of Design are Changing the Way We Live, Work & Play]]
+
+---
+
+# 10 – Promise
+- They called the solution they hit upon Magic Ticketing. It was simple: Using a mobile phone, anyone could buy their ticket in advance.
+- Consider all the things that made Magic Bus Ticketing possible. It couldn’t have existed but for the ubiquity of the user-friendly cell phone. It couldn’t work but for the ubiquitous behavior of texting, and the familiarity of pop-up menus. Without the mental model that people already had for sending payments via text message, and the simple interfaces that make it possible, the service would never have become one that manages to tacitly explain its inner workings.
+- The ease of readapting user-friendly patterns is the single biggest reason that design now dwells in so many places we wouldn’t expect.
+- design, as it was imagined for nearly a century, is over.
+- West went on: “Don Norman thought about design mechanistically, as a top-down solution. But the problem wasn’t that people didn’t know how to design a door that was easy to open”—as in, a door with the proper affordances for telling which way it swung. “Rather, the problem is that having a door that was easy to open wasn’t important to the person selling the door. Today, things happen from the ground up. Nothing you advertise will make a difference if you’re not designing a different experience to support it.”
+- In the arc of moving industries from things to pixels, it took a hundred years to codify what it meant to make something easy to use. By now, we know what usability means—it’s feedback, mental models, and all the other nuances
+- We might demand that an app be easy to understand, without an explanation needed. So why shouldn’t we demand the same from government, from our food supply, from our health care?
+- Moreover, the tools of design itself are being applied to higher-order problems. The Gates Foundation, one of the most consequential funders in the world, was built upon the premise of sensing the right problems to solve through the process of design thinking.
+- In Finland, the government had set up a department of design thinking—the so-called experimentation unit, which had spun twenty-six initiatives that ranged from which languages to teach in schools to how best to administer childcare. Each would be prototyped, tested with users, prototyped again, and then retested.
+- We can no longer assume that a better world will come merely as a by-product of making more people comfortable. Whether the problem is climate change or fake news, design must now help us make decisions based not just on what’s easy to use, but on what we should be using in the first place.
+- Almost every designer I’ve ever met has come to a point in their career when they’ve wondered whether they actually made the world better by making more things—
+- In 1971, Victor Papanek published Design for the Real World, which exhorted designers to stop focusing on making goods for the world’s richest people.
+- After you’ve designed the Facebook Like button, how do you deal with the fact that in a mere ten years a new system of feedback loops rewired how information was spread? If you’ve designed the iPhone, how do you make peace with its marketing, which every year strives to convince us that our old phones aren’t good enough anymore—thus enshrining planned obsolescence not merely as the cost of doing business, but as the ideal state of technology’s progress?
+- When he left Facebook, he and his cofounder had an aspiration of developing software that could make every project in the world 5 percent faster. A few years after they launched, they surveyed users and asked how much quicker Asana had made their teams. The average answer was 45 percent.
+- Leah Pearlman, Justin Rosenstein’s collaborator on the Like button, had a startling insight when we talked: that the Like button couldn’t have been designed anywhere but America, where so much of your personal identity is tied up in what you do.
+- A growing body of research shows that it’s fear of missing out—FOMO—that drives the unhappiness that seems to spring from social networking.
+- Clark believes that what separates our minds from those of animals is the miraculous power to draft the artifacts around us into our own thoughts, to use them as tools to think ideas we’d have no access to any other way.9
+- disability isn’t a limitation of the user but a mismatch between the user and the world we’ve designed.
+- But today, the modern test-and-learn method—best exemplified in places such as Google and Facebook—has come to emphasize the creation of things that can be tested quickly, rather than those that require a far longer time-scale to observe.
+- Jane Fulton Suri’s book Thoughtless Acts,

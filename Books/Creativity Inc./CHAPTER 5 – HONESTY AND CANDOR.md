@@ -1,0 +1,56 @@
+# [[01. Creativity, Inc. by Ed Catmull]]
+
+---
+
+# CHAPTER 5 – HONESTY AND CANDOR
+- But the fact is, there are often good reasons not to be honest. 
+- When it comes to interacting with other people in a work environment, there are times when we choose not to say what we really think. 
+- But as valuable as the information is that comes from honesty and as loudly as we proclaim its importance, our own fears and instincts for self-preservation often cause us to hold back. To address this reality, we need to free ourselves of honesty’s baggage. 
+- One way to do that is to replace the word honesty with another word that has a similar meaning but fewer moral connotations: candor. 
+- Candor is forthrightness or frankness—not so different from honesty, really. 
+- A hallmark of a healthy creative culture is that its people feel free to share ideas, opinions, and criticisms. 
+- So how can a manager ensure that his or her working group, department, or company is embracing candor? 
+- The Braintrust, which meets every few months or so to assess each movie we’re making, is our primary delivery system for straight talk. 
+    - Note: Braintrust similar to wolfpack in ted lasso to share honeszt feedback nd opinions
+- Its premise is simple: Put smart, passionate people in a room together, charge them with identifying and solving problems, and encourage them to be candid with one another. 
+- The Braintrust is one of the most important traditions at Pixar. 
+- without the critical ingredient that is candor, there can be no trust. And without trust, creative collaboration is not possible. 
+- you can’t address or eliminate the blocks to candor once and for 
+- The fear of saying something stupid and looking bad, of offending someone or being intimidated, of retaliating or being retaliated against—they all have a way of reasserting themselves, even once you think they’ve been vanquished. 
+- THERE IS SOME dispute about when, exactly, the Braintrust came into being. 
+- That’s because it developed organically, growing out of the rare working relationship among the five men who led and edited the production of Toy Story—John Lasseter, Andrew Stanton, Pete Docter, Lee Unkrich, and Joe Ranft. 
+- It was only when we rallied to fix Toy Story 2, coming together to solve a crisis, that the “Braintrust” entered the Pixar lexicon as an official term. 
+- The Braintrust had to evolve, then, from a tight, well-defined group that worked on one film together until it was done to a larger, more fluid group that assembled, as needed, to solve problems on all our films. 
+- Over the years, its ranks have grown to include a variety of people—directors, writers, and heads of story—whose only requirement is that they display a knack for storytelling. 
+- Compounding matters is the fact that you aren’t the only one who’s struggling with these doubts. 
+- societal conditioning discourages telling the truth to those perceived to be in higher positions. 
+- candor could not be more crucial to our creative process. Why? Because early on, all of our movies suck. 
+- Pixar films are not good at first, and our job is to make them so—to go, as I say, “from suck to not-suck.” This idea—that all the movies we now think of as brilliant were, at one time, terrible—is a hard concept for many to grasp. 
+- Creativity has to start somewhere, and we are true believers in the power of bracing, candid feedback and the iterative process—reworking, reworking, and reworking again, until a flawed story finds its throughline or a hollow character finds its soul. 
+- As I’ve discussed, first we draw storyboards of the script and then edit them together with temporary voices and music to make a crude mock-up of the film, known as reels. 
+- Then the Braintrust watches this version of the movie and discusses what’s not ringing true, what could be better, what’s not working at all. Notably, they do not prescribe how to fix the problems they diagnose. They test weak points, they make suggestions, but it is up to the director to settle on a path forward. 
+- (It takes about twelve thousand storyboard drawings to make one 90-minute reel, and because of the iterative nature of the process I’m describing, story teams commonly create ten times that number by the time their work is done.) 
+- People who take on complicated creative projects become lost at some point in the process. It is the nature of things—in order to create, you must internalize and almost become the project for a while, and that near-fusing with the project is an essential part of its emergence. 
+- All directors, no matter how talented, organized, or clear of vision, become lost somewhere along the way. 
+- No matter what, the process of coming to clarity takes patience and candor. 
+- In Hollywood, studio executives typically communicate their criticisms of an early cut of a film by giving extensive “notes” to the director. The movie will be screened and suggestions will be typed up and delivered a few days later. The problem is, directors don’t want the notes, because they are usually coming from people who aren’t filmmakers and are seen as ignorant and interfering. 
+- How is the Braintrust different from any other feedback mechanism? 
+- There are two key differences, as I see it. The first is that the Braintrust is made up of people with a deep understanding of storytelling and, usually, people who have been through the process themselves. 
+- The second difference is that the Braintrust has no authority. This is crucial: The director does not have to follow any of the specific suggestions given. After a Braintrust meeting, it is up to him or her to figure out how to address the feedback. 
+- The Braintrust’s notes, then, are intended to bring the true causes of problems to the surface—not to demand a specific remedy. 
+- In academia, peer review is the process by which professors are evaluated by others in their field. I like to think of the Braintrust as Pixar’s version of peer review, a forum that ensures we raise our game—not by being prescriptive but by offering candor and deep analysis. 
+- The film itself—not the filmmaker—is under the microscope. This principle eludes most people, but it is critical: You are not your idea, and if you identify too closely with your ideas, you will take offense when they are challenged. 
+- To set up a healthy feedback system, you must remove power dynamics from the equation—you must enable yourself, in other words, to focus on the problem, not the person. 
+- Michael Arndt, who wrote Toy Story 3, says he thinks to make a great film, its makers must pivot, at some point, from creating the story for themselves to creating it for others. 
+- “Part of the suffering involves giving up control,” he says. “I can think it’s the funniest joke in the world, but if nobody in that room laughs, I have to take it out. It hurts that they can see something you can’t.” 
+- Andrew Stanton, who has been on the giving or the receiving end of almost every Braintrust meeting we’ve ever had, likes to say that if Pixar is a hospital and the movies are the patients, then the Braintrust is made up of trusted doctors. 
+- Every Pixar movie has its own rules that viewers have to accept, understand, and enjoy understanding. The voices of the toys in the Toy Story films, for example, are never audible to humans. The rats in Ratatouille walk on four paws, like normal vermin, except for Remy, our star, whose upright posture sets him apart. 
+- FRANK TALK, SPIRITED debate, laughter, and love. If I could distill a Braintrust meeting down to its most essential ingredients, those four things would surely be among them. 
+- That is part of the reason why Steve Jobs didn’t come to Braintrust meetings at Pixar—a mutually agreed prohibition, based on my belief that his bigger-than-life presence would make it harder to be candid. 
+- Take WALL-E, for example, which was known, early on, as Trash Planet. 
+- A competitive approach measures other ideas against your own, turning the discussion into a debate to be won or lost. An additive approach, on the other hand, starts with the understanding that each participant contributes something (even if it’s only an idea that fuels the discussion—and ultimately doesn’t work). 
+- Then and now, the term we use to describe this kind of constructive criticism is “good notes.” A good note says what is wrong, what is missing, what isn’t clear, what makes no sense. A good note is offered at a timely moment, not too late to fix the problem. A good note doesn’t make demands; it doesn’t even have to include a proposed fix. But if it does, that fix is offered only to illustrate a potential solution, not to prescribe an answer. Most of all, though, a good note is specific. “I’m writhing with boredom,” is not a good note. 
+- “You can and should make your own solution group,” Andrew Stanton says, 
+- “Here are the qualifications required: The people you choose must (a) make you think smarter and (b) put lots of solutions on the table in a short amount of time. 
+
+---

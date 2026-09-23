@@ -1,0 +1,42 @@
+# [[01. Creativity, Inc. by Ed Catmull]]
+
+---
+
+# CHAPTER 13 – NOTES DAY
+- The creative culture at Disney Animation, I believe, is fundamentally different than when John and I arrived in 2006. 
+- As all this was taking place, Pixar released Monsters University, which you may remember underwent a change of directors during its journey to the multiplex. The film—our fourteenth number one movie in a row—grossed $82 million on its opening weekend (making it the second biggest Pixar opening ever) and went on to make more than $740 million worldwide. 
+- In short, Pixar had the kind of diverse problems that any successful company has. But chief among them, to my mind, was that more and more people had begun to feel that it was either not safe or not welcome to offer differing ideas. 
+- There is nothing like a crisis, though, to bring what ails a company to the surface. And now, we had three crises brewing at once: (1) Our production costs were rising and we needed to rein them in; (2) External economic forces were putting pressure on our business; and (3) One of the central tenets of our culture—good ideas can come from anywhere, so everyone must feel empowered to speak up—was faltering. Too many of our people—and to my mind, “too many” is the same as “any”—were self-censoring. 
+- Notes Day, 
+- “How do we tap the brainpower of our people?” 
+- Notes Day was a success in part because it was based on the idea that fixing things is an ongoing, incremental process. 
+- Creative people must accept that challenges never cease, failure can’t be avoided, and “vision” is often an illusion. But they must also feel safe—always—to speak their minds. Notes Day was a reminder that collaboration, determination, and candor never fail to lift us up. 
+- When Guido had the floor, he told a story about something he’d instituted in his department called “personal project days.” Two days a month, he allowed his engineers to work on anything they wanted, using Pixar’s resources to engage with whatever problem or question they found interesting. 
+- “You just give people the time, and they come up with the ideas,” Guido told us. “That’s the beauty of it: It comes from them.” 
+- So it made sense, as we began to make Guido’s idea a reality, to invoke our shorthand term for candid feedback: notes. 
+- At some point, we decided that Monday, March 11, 2013, would be called “Notes Day.” 
+- “It’ll be a day in which you tell us how to make Pixar better,” John said. “We’ll do no work that day. No visitors will be allowed. Everyone must attend.” 
+- First, it created an electronic suggestion box where Pixar people could submit discussion topics they thought would help us become more innovative and more efficient. 
+- The suggestion box, in turn, prompted something that none of us had expected. Many departments, without any prodding, created their own wiki pages and blogs to hash out what they believed the core issues at Pixar really were. 
+- In the end, four thousand emails poured into the Notes Day suggestion box—containing one thousand separate ideas in all. 
+- Putting like with like, Tom’s team distilled the thousand ideas down to 293 discussion topics. That was still way too many for a single day’s agenda, so a group of senior managers then met and whittled those down to 120 topics, organized into several broad categories such as Training, Environment and Culture; Cross-Show Resource Pooling (we often call our movies “shows”); Tools and Technology; and Workflow. 
+- To that end, the Notes Day Working Group circulated a survey, and what he learned was striking: The number one topic—the one that the most people wanted to talk about—was how to achieve a 12,000 person-week movie. 
+- Tom and his team decided early on that people would determine their own schedules, signing up for only the sessions that interested them. 
+- Each of the Notes Day discussion groups would be led by a facilitator recruited from among the company’s production managers. 
+- The week before Notes Day, all facilitators attended a training session to help them keep each meeting on track and make sure that everyone—the outgoing, the laid-back, and everyone in between—was heard from. 
+- Then, to make sure something concrete emerged, the Working Group designed a set of “exit forms” to be filled out by each session’s participants. 
+- Red forms were for proposals, blue forms were for brainstorms, and yellow forms were for something we called “best practices”—ideas that were not action items per se but principles about how we should behave as a company. 
+- The forms were simple and specific: Each session got its own set, tailored specifically to the topic at hand, that asked a specific question. For example, the session called “Returning to a ‘Good Ideas Come from Anywhere’ Culture,” had blue exit forms topped with this header: Imagine it’s 2017. We’ve broken down barriers so that people feel safe to speak up. Senior employees are open to new processes. What did we do to achieve this success? Underneath that question were boxes in which attendees could pencil in three answers. Then, after they wrote a general description of each idea, they were asked to go a few steps further. What “Benefits to Pixar” would these ideas bring? And what should be the “Next Steps” to make them a reality? Finally, there was space provided to specify “Who is the best audience for this idea?” and “Who should pitch this idea?” 
+- On the Friday before Notes Day, I got an email telling me that 1,059 people had signed up—nearly everyone in the company, given that some employees were on leave or away. The following Monday, we would discuss 106 topics in 171 sessions managed by 138 facilitators in 66 meeting spaces across our three buildings 
+- Among the ideas this group put on their exit forms: fostering more empathy between departments through a job-swapping program, establishing a lunch lottery that would match people at random to encourage new connections and friendships, and holding cross-departmental mixers designed to let far-flung colleagues get to know each other over a few beers. 
+- So in the weeks after Notes Day, all those who’d volunteered to be “idea advocates” were called in to work with Tom and his team to hone their pitches. Then, they began making them to me, John, and our general manager, Jim Morris—and together, we immediately began moving to implement the ones that made sense. 
+- I believe the biggest payoff of Notes Day was that we made it safer for people to say what they thought. Notes Day made it okay to disagree. That and the feeling our people had that they were part of the solution were its biggest contributions. 
+- What made Notes Day work? 
+- First, there was a clear and focused goal. This wasn’t a free-for-all but a wide-ranging discussion (organized around topics suggested not by Human Resources or by Pixar’s executives, but by the company’s employees) aimed at addressing a specific reality: the need to cut our costs by 10 percent. 
+- Second, this was an idea championed by those at the highest levels of the company. 
+- Third, and relatedly, Notes Day was led from within. 
+- But that our own people made Notes Day happen was, I believe, key to its success. Not only did they drive the discussion in meaningful ways, but their involvement also paid its own dividends. 
+- “To Whom it May Inspire,” Austin wrote. “I, like many of you artists out there, constantly shift between two states. The first (and far more preferable of the two) is white-hot, ‘in the zone’ seat-of-the-pants, firing on all cylinders creative mode. This is when you lay your pen down and the ideas pour out like wine from a royal chalice! This happens about 3% of the time. The other 97% of the time I am in the frustrated, struggling, office-corner-full-of-crumpled-up-paper mode. The important thing is to slog diligently through this quagmire of discouragement and despair. Put on some audio commentary and listen to the stories of professionals who have been making films for decades going through the same slings and arrows of outrageous production problems. In a word: PERSIST. PERSIST on telling your story. PERSIST on reaching your audience. PERSIST on staying true to your vision ….” 
+- Unleashing creativity requires that we loosen the controls, accept risk, trust our colleagues, work to clear the path for them, and pay attention to anything that creates fear. 
+
+---

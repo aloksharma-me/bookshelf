@@ -1,0 +1,56 @@
+# [[01. Creativity, Inc. by Ed Catmull]]
+
+---
+
+# CHAPTER 9 – THE HIDDEN
+- The implication, for me, was that we would inevitably be subject to those same delusions at Pixar unless we came to terms with our own limited ability to see. We had to address what I’ve come to call the Hidden. 
+- In 1995, when Steve Jobs was trying to convince us that we should go public, one of his key arguments was that we would eventually make a film that failed at the box office, and we needed to be prepared, financially, for that day. 
+- The underlying logic of his reasoning shook me: We were going to screw up, it was inevitable. And we didn’t know when or how. We had to prepare, then, for an unknown problem—a hidden problem. 
+- When I mention the mistakes that were made at companies such as Silicon Graphics or Toyota, some people cite hubris as the reason. “They started to believe their own B.S.,” they say. “They got complacent.” 
+- But I believe the deeper issue is that the leaders of these companies were not attuned to the fact that there were problems they could not see. And because they weren’t aware of these blind spots, they assumed that the problems didn’t exist. 
+- Which brings us to one of my core management beliefs: If you don’t try to uncover what is unseen and understand its nature, you will be ill prepared to lead. 
+- One of the ways to do that is to try to understand the many reasons why something may be difficult or impossible to see. To gain this understanding requires identifying multiple levels of the unknown, from the trivial to the fundamental. 
+- But over time, as I moved on to Lucasfilm and then to Pixar, the number of people who reported to me grew and then grew some more, and it began to dawn on me that our employees were behaving differently around me. They saw me as an “Important Manager” at an “Important Company,” whereas the colleagues who’d started out with me at New York Tech just saw me as Ed. 
+- As my position changed, people became more careful how they spoke and acted in my presence. I don’t think that my actions changed in a way that prompted this; my position did. 
+- Gradually, snarky behavior, grousing, and rudeness disappeared from view—from my view, anyway. I rarely saw bad behavior because people wouldn’t exhibit it in front of me. 
+- The phenomenon I’m describing, rooted so firmly in that primal human drive for self-preservation, probably doesn’t sound surprising: We all know that people bring their best selves to interactions with their bosses and save their lesser moments for their peers, spouses, or therapists. 
+- And yet, so many managers aren’t aware of it when it’s happening (perhaps because they enjoy being deferred to). 
+- Instead, many new leaders assume, wrongly, that their access to information is unchanged. But that is just one example of how hidden-ness affects a manager’s ability to lead. 
+- To what extent do hierarchies and structured environments, which have been designed to help large groups of people work together, contribute to the hiding of information? 
+- Here’s what turns a successful hierarchy into one that impedes progress: when too many people begin, subconsciously, to equate their own value and that of others with where they fall in the pecking order. Thus, they focus their energies on managing upward while treating people beneath them on the organizational chart poorly. 
+- How does a manager differentiate between a team player and a person who is merely skilled at telling the boss what he or she wants to hear? 
+- A manager might rely on other people to alert him or her to a particular employee’s lack of authenticity, but many are loath to tattle or to sound envious. The leader’s view, then, is obstructed by these people who are skilled at figuring out what the leader wants. 
+- There is a third layer of hidden-ness—yet another set of things that I can’t see. 
+- The people in the trenches doing the hard day-today work of producing our films are engaged in an incredibly complex set of processes, all of which come with their own attendant problems and idiosyncrasies. 
+- But the people who are directly involved have the firmest grasp of the problems because they are in the middle of the action and see things that I don’t see. If a crisis is brewing, they will know about it before I do. 
+- This would not be a problem if you could always count on people to send up a flare the instant they suspect trouble, but you can’t. Even employees with the purest intentions may be too timid to speak up when they sense trouble. They may feel that it’s too early to involve upper-level managers, or they may assume that we are aware of the breakdowns already. 
+- So my colleagues know more than I do about what’s going on in any given department at any given moment. On the other hand, I know more about issues that people working in production do not: schedule requirements, resource conflicts, market problems, or personnel issues that may be difficult or inappropriate to share with everyone. 
+- on incomplete pictures. It would be wrong for me to assume that my limited view 
+- If we can agree that it’s hard, if not impossible, to get a complete picture of what is going on at any given time in any given company, it becomes even harder when you are successful. That’s because success convinces us that we are doing things the right way. 
+- Or take this example, which occurred at Pixar during what’s called an “executive check”—a meeting to approve budgets and schedules—on the production of Up. 
+- A visual effects producer named Denise Ream was in that meeting, and she spoke up with a fairly radical suggestion: Production would be cheaper and take fewer person-weeks (the measure—the amount of work a single person could accomplish in a week’s time—that we use to calculate budgets) if we did something that sounded completely counter to that goal—delay when the animators started on their work. 
+- From her vantage point, it seemed obvious that we would use fewer person-weeks if we gave animators bigger, more fully realized chunks to work on later in the process. 
+- That kind of openness is only possible in a culture that acknowledges its own blind spots. It’s only possible when managers understand that others see problems they don’t—and that they also see solutions. 
+- The problem is, the phrase is dead wrong. Hindsight is not 20–20. Not even close. Our view of the past, in fact, is hardly clearer than our view of the future. 
+- While we know more about a past event than a future one, our understanding of the factors that shaped it is severely limited. 
+- “We should be careful to get out of an experience only the wisdom that is in it—and stop there,” as Mark Twain once said, “lest we be like the cat that sits down on a hot stove-lid. She will never sit down on a hot stove-lid again—and that is well; but also she will never sit down on a cold one anymore.” 
+- During the intensive research phase of the film, Pete was surprised to hear from a neuroscientist that only about 40 percent of what we think we “see” comes in through our eyes. “The rest is made up from memory or patterns that we recognize from past experience,” he told me. 
+- Most think of animation as the characters just moving around in funny ways while they deliver their lines, but great animators carefully craft the movements that elicit an emotional response, convincing us that these characters have feelings, emotions, intentions. 
+- What I’m really talking about here are our mental models, which play a major role in our perception of the world. 
+- The models in our head operate at awesome speed, allowing us to function in real time, picking out what is good or what is threatening in any given scenario. 
+- This process is so fast and automatic, in fact, that we don’t notice that it is happening. A snippet of sound or the briefest glance at someone is sufficient to activate these models; 
+- The models we have of our relationships at work, with friends, in our families, and in our society are all even more complicated than our visual models. These constructs—call them personal models—shape what we perceive. But they are each unique to us—no one can see relationships quite the way we do. If only we could remember that! Most of us walk around thinking that our view is best—probably because it is the only one we really know. 
+- when humans see things that challenge our mental models, we tend not just to resist them but to ignore them. This has been scientifically proven. 
+- The concept of “confirmation bias”—the tendency of people to favor information, true or not, that confirms their preexisting beliefs—was introduced in the 1960s by Peter Wason, a British psychologist. 
+- A few words uttered by someone close to us can carry enormous weight, for example, whereas the same words uttered by a stranger won’t resonate at all. 
+- At our jobs, we may interpret not being invited to a meeting as a threat to us or to our projects, even when no threat is intended. 
+- Once a model of how we should work gets in our head, it is difficult to change. 
+- We’ve all experienced times when other people see the same event we see but remember it differently. (Typically, we think our view is the correct one.) The differences arise because of the ways our separate mental models shape what we see. 
+- WHEN WE ARE making a movie, the movie doesn’t exist yet. We are not uncovering it or discovering it; it’s not as if it resides somewhere and is just waiting to be found. There is no movie. We are making decisions, one by one, to create it. In a fundamental way, the movie is hidden from us. (I refer to this concept as the “Unmade Future,” 
+- There is a reason that writers talk about the terror of the blank page and painters shudder at the sight of an empty canvas. It’s extremely difficult to create something out of nothing, especially when you consider that much of what you’re trying to realize is hidden, at least at first. 
+- The most creative people are willing to work in the shadow of uncertainty. 
+- Many fear this side of the door. We crave stability and certainty, so we keep both feet rooted in what we know, believing that if we repeat ourselves or repeat what is known to work, we will be safe. 
+- The Hidden—and our acknowledgement of it—is an absolutely essential part of rooting out what impedes our progress: clinging to what works, fearing change, and deluding ourselves about our roles in our own success. 
+- Candor, safety, research, self-assessment, and protecting the new are all mechanisms we can use to confront the unknown and to keep the chaos and fear to a minimum. 
+
+---

@@ -1,0 +1,39 @@
+# [[01. Creativity, Inc. by Ed Catmull]]
+
+---
+
+# CHAPTER 7 – THE HUNGRY BEAST AND THE UGLY BABY
+
+- As Disney expanded its release schedule, its need for output increased to the point that it opened animation studios in Burbank, Florida, France, and Australia just to keep up with its appetites. The pressure to create—and quickly!—became the order of the day. To be clear, this happens at many companies, not just in Hollywood, and its unintended effect is always the same: It lessens quality across the board. 
+- From 1994 to 2010, not a single Disney animated film would open at number one at the box office. I believe this was the direct result of its employees thinking that their job was to feed the Beast. 
+- ORIGINALITY IS FRAGILE. And, in its first moments, it’s often far from pretty. This is why I call early mock-ups of our films “ugly babies.” They are not beautiful, miniature versions of the adults they will grow up to be. They are truly ugly: awkward and unformed, vulnerable and incomplete. They need nurturing—in the form of time and patience—in order to grow. 
+- I am saying that when someone hatches an original idea, it may be ungainly and poorly defined, but it is also the opposite of established and entrenched—and that is precisely what is most exciting about it. If, while in this vulnerable state, it is exposed to naysayers who fail to see its potential or lack the patience to let it evolve, it could be destroyed. 
+- Think of a caterpillar morphing into a butterfly—it only survives because it is encased in a cocoon. It survives, in other words, because it is protected from that which would damage it. 
+- It was obvious to us that a large portion of our costs stemmed from the fact that we never seemed to stop tinkering with the scripts of our movies, even long after we started making them. It didn’t take a genius to see that if we could only settle on the story early on, our movies would be much easier—and thus cheaper—to make. This then became our goal—finalize the script before we start making the film. After Andrew’s tour de force pitch, Finding Nemo seemed like the perfect project with which to test our new theory. 
+- Despite our hopes that Finding Nemo would be the film that changed the way we did business, we ended up making as many adjustments during production as we had on any other film we had made. The result, of course, was a movie we’re incredibly proud of, one that went on to become the second-highest-grossing film of 2003 and the highest-grossing animated film ever. 
+- Making the process better, easier, and cheaper is an important aspiration, something we continually work on—but it is not the goal. Making something great is the goal. 
+- When efficiency or consistency of workflow are not balanced by other equally strong countervailing forces, the result is that new ideas—our ugly babies—aren’t afforded the attention and protection they need to shine and mature. 
+- any group that produces a product or drives revenue could be considered to be part of the Beast, including marketing and distribution. Each group operates according to its own logic, and many have neither the responsibility for the quality of what is produced nor a good understanding of their own impact on that quality. It simply isn’t their problem; keeping the process going and the money flowing is. Each group has its own goals and expectations and acts according to its own appetites. 
+- It is one of life’s cruel ironies that when it comes to feeding the Beast, success only creates more pressure to hurry up and succeed again. 
+- Which is why at too many companies, the schedule (that is, the need for product) drives the output, not the strength of the ideas at the front end. 
+- In animation, we have many constituencies: story, art, budget, technology, finance, production, marketing, and consumer products. 
+- The people within each constituency have priorities that are important—and often opposing. 
+- The writer and director want to tell the most affecting story possible; the production designer wants the film to look beautiful; the technical directors want flawless effects; finance wants to keep the budgets within limits; marketing wants a hook that is easily sold to potential viewers; the consumer products people want appealing characters to turn into plush toys and to plaster on lunchboxes and T-shirts; the production managers try to keep everyone happy—and to keep the whole enterprise from spiraling out of control. 
+- But if the director is able to get everything he or she wants, we will likely end up with a film that’s too long. If the marketing people get their way, we will only make a film that mimics those that have already been “proven” to succeed—in other words, familiar to viewers but in all likelihood a creative failure. Each group, then, is trying to do the right thing, but they’re pulling in different directions. If any one of those groups “wins,” we lose. 
+- as we expand our animation staff at Pixar, which has the positive impact of allowing us to do more quality work, there is also a negative impact that we must deal with: Meetings have become larger and less intimate, with each participant having a proportionally smaller ownership in the final film (which can mean feeling less valued). 
+- I often say that managers of creative enterprises must hold lightly to goals and firmly to intentions. What does that mean? It means that we must be open to having our goals change as we learn new information or are surprised by things we thought we knew but didn’t. 
+- As long as our intentions—our values—remain constant, our goals can shift as needed. 
+- Negative feedback may be fun, but it is far less brave than endorsing something unproven and providing room for it to grow. 
+- taking a risk necessitated a willingness to deal with the mess created by the risk. 
+- In Pixar’s history, though, we have only developed one feature film that didn’t make it through to completion. 
+- One of my favorite examples of how protection can give way to engagement comes not from a Pixar film but from our intern program. 
+- In 1998, I decided that the company would benefit from a summer program—like those at many creative companies—that would bring bright young people into Pixar for a couple of months to learn from working with experienced production people. 
+- But when I ran the idea past our production managers, they said no thanks: They had no interest in taking interns on. 
+- But when I probed more deeply, it became clear that the resistance wasn’t a question of time but of money. They didn’t want the added expense of paying the interns. 
+- Instead, I decided to make the interns a corporate expense—they would essentially be available, at no extra cost, to any department who wanted to take them on. 
+- Every year since then, the program has grown a little more, and every year more managers have found themselves won over by their young charges. 
+- A few years in, it became clear that we didn’t need to fund interns out of the corporate coffers anymore; as the program proved its worth, people became willing to absorb the costs into their budgets. 
+- In other words, the intern program needed protection to establish itself at first, but then grew out of that need. Last year, we had ten thousand applications for a hundred spots. 
+- “In many ways, the work of a critic is easy,” Ego says. “We risk very little yet enjoy a position over those who offer up their work and their selves to our judgment. We thrive on negative criticism, which is fun to write and to read. But the bitter truth we critics must face is that in the grand scheme of things, the average piece of junk is probably more meaningful than our criticism designating it so. But there are times when a critic truly risks something, and that is in the discovery and defense of the new. The world is often unkind to new talent, new creations. The new needs friends.” 
+
+---

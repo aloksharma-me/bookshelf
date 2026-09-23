@@ -1,0 +1,85 @@
+# [[00 User Friendly – How the Hidden Rules of Design are Changing the Way We Live, Work & Play]]
+
+---
+
+# 5 – Metaphor
+- no one understood what the internet was. In the West we like to believe that the technologies that have transformed our lives can do the same for others in different cultures.
+- For Renuka, the view was different. She knew where the internet lived on her phone, sort of. She could imagine that the internet might help her find jobs, or help her get formal documentation as a citizen, to receive government services. But she assumed that the internet wasn’t for her, that it was for the better educated. And part of the reason was that she couldn’t picture how it worked.
+- She had no mental model of what it held. She could recognize the globe icon on her phone, but she had no idea what it meant. She guessed that it led “to the outside world.”
+- The researchers met dozens of women who said the same thing. One of them, a cook like Renuka, could actually navigate the internet menu on her phone, but she had no inkling that this was the internet. Another woman could recognize the “www,” but hadn’t a clue what a URL was or how it worked.
+- We take for granted how the internet arrived for us in the West. We take for granted all the metaphors involved.
+- The “World Wide Web” evoked the image of a literal spiderweb, spanning the globe. What connects the web? Hyperlinks, like links in a chain piecing together all the places you want to go. If you can’t find the right link, then you have a search engine, a machine that gleans information as it crawls the web.
+- These metaphors fall short of an instruction manual, but they nonetheless foster some basic sense of the internet’s logic: how to navigate it, using a browser—two more metaphors, borrowed from sailing and libraries, which bring forth ideas about coordinates and filing systems.
+- (As the design theorist Klaus Krippendorff writes, “Metaphors die in repeated use but leave behind the reality that they had languaged into being.”)
+- In 1979, the linguist George Lakoff, working with the philosopher Mark Johnson, began an investigation of how metaphors work.
+- In their book Metaphors We Live By, the two of them presented the radical idea that it is hardly possible to think without resorting to metaphors
+- metaphors provide us a web of inferences, which we use to explain the underlying logic of how something should work.
+- The right metaphor is like an instruction manual but better, because it teaches you how something should work without you ever having to be told. ^3267ad
+- Consider the metaphor of the in-box versus the news feed. The email in-box borrows its logic from your mail, and you probably at least glance at every piece of mail that’s sent to you—simply because they were all meant for you. Your email in-box carries the same logic.
+- The Instagram “feed” or the Twitter “stream” are entirely different metaphors.10 A stream rushes on even if you’re not there to see; it gurgles by in the dark, when you’re asleep.
+- One reason you might find checking your email to be a chore while checking Facebook feels closer to leisure is that the underlying metaphors are different.
+- That power is what allows metaphors to transfer ideas from a specialized domain—say, the inner workings of a bunch of networked computers, known only to their engineers—to a new cohort.
+- Metaphors strip away what’s specialized and complex, focusing our attention on just the few things we need to make sense of something, the ideas we share.
+- Given how critical the battery is, Ford’s engineers thought that hybrid drivers needed to know how well it was charging. So whenever a driver braked, the needle of the battery gauge tracked rightward toward an area of green, showing that the battery was charging. That feedback turned out to be disastrous. Eager to see their batteries being charged, drivers would mash the brake and watch the charging needle spike toward green.
+- Research had shown there to be two basic types of hybrid purchaser at that time. There were the ones who bought the hybrid and thought they didn’t need to do anything more, and the “hyper-milers” who tracked every penny they spent on gas and traded tips about pulsing their accelerators and gliding for as long as they could on the highway.
+- Car culture is about the driver being in control. No one would ever buy a car that was constantly telling them what to do.
+- The team hired IDEO, and IDEO began gathering up hyper-milers to see what mind-sets might be worth emulating in the dashboard itself.
+- The problem was simple: How do you get someone who isn’t a hyper-miler to realize that it isn’t just the car that saves them gas, but their own driving style?
+- Inspiration finally came from a hyper-miler who also happened to be an ultramarathoner. She explained the role of a good coach in her life. A good coach wasn’t a scold, because the work of being better still fell to the athlete herself. A good coach would also always know what you needed to do—and tell you just enough information to do it, but no more.
+- That metaphor drove new design principles, which in turn fostered dozens of designs: Support but don’t shout. Give enough information to act, and no more.
+- The color green provided another metaphor. Green meant go—keep it up! But green also meant eco-conscious and verdant.
+- Yet when it finally came time to make the dashboard, Dave Watson, a computer scientist tasked with building all these prototypes, felt a certain hollowness.13 Green was a clear choice that piggybacked upon all kinds of associations, but there still wasn’t enough to get people to care.
+- To get someone to understand, you had to make them care enough in the first place. So Watson thought: Trees. It was as if by driving better, you were helping a tree grow. But trees grow over time; they leaf out, they fade.
+- If you drove aggressively, a few leaves might disappear; drive more prudently, a few more would sprout.
+- The beauty of the solution lay in how much information was compressed into just a simple image. It was a feedback mechanism that helped nudge people toward better behavior. By driving better you were growing something—who would want to kill a plant?
+- A Ford engineer told me he knew the viny leaf metaphor was working when drivers started posting their dashboards online.
+- Metaphors will always be one of our most powerful entry points to the user-friendly world, possessing the singular ability to make the foreign feel familiar, providing us mental models for how things work.
+- The desktop metaphor cannot be anything other than one of the most influential and pervasive ideas of the twentieth century. It’s what transformed the minicomputer into the personal computer:
+- Bill Atkinson came to Apple in 1978, after Jobs had convinced him to quit his Ph.D. program in neuroscience at UC San Diego.
+- Two weeks later, he was at Apple, where he soon became Jobs’s regular dinner partner and sounding board, and a star engineer on Apple’s follow-up to the Apple II, the Lisa.
+- “Steve would say you were great one day, and an idiot the next,” recalled Bruce Horn, part of the team that went on to create the drag-and-drop method of moving files around.
+- As the Smalltalk engineers were showing off how you could click around on the windows they’d designed, Atkinson assumed they had figured out a way for the machine to simulate those windows being layered on top of one another, like real sheets of paper on a desk. They hadn’t, but it set him on the path to creating what Hertzfeld later called the soul of the Mac.
+- Once the logic of the desktop metaphor arrived, Apple’s engineers kept pulling threads, finding new implications, new ways for the digital world to obey the intuitiveness of the physical one.
+- Larry Tesler—the very one who’d actually given Atkinson the Smalltalk demo—was obsessed with “mode confusion,” the bugbear of airplane pilots, the oldest problem in human-machine interaction.21 Modes, when carried over to a computer interface, were hopelessly confusing: Did you remember if you’d clicked into text-edit mode, or text-delete mode?
+- So he insisted that users be able to directly manipulate things on-screen, just as they might in real life. You should be able to click into some text, and type.
+- To extend that idea and make it even more intuitive, Horn invented the ability to drag and drop files.
+- Meanwhile, Susan Kare created the original icons of the Mac—the trash can, the file folder, the hand, all of which summoned the outside world that had inspired them, with a brilliant economy of pixels. [[Direct Manipulation in iPhone User Interface]] ^161908
+- The organic growth of the Macintosh OS shows how metaphors can not only explain ideas but generate them.
+- Not only can metaphors tell us how something should work, they can also become guides to what we’d like to create.
+- Metaphors accomplish something essential to human progress: They don’t just spur us to make new things; they inspire the ways in which those things will behave once they’re in our hands.
+- On August 2, 2018, Apple became the world’s first public company worth more than $1 trillion.
+- And yet Apple’s rise is nothing more or less than the story of three interfaces: the Macintosh OS, the iPod click wheel, and the iPhone touchscreen. ^80d30c
+- In the user-friendly world, interfaces make empires:
+- IBM, with its punch-card mainframes, was an empire until the 1970s.
+- Then came the graphical user interface, which transformed both Apple and Microsoft from niche companies into mainstream Goliaths.
+- (In April 2019, Microsoft became the third company in the world to reach a $1 trillion valuation, right behind Amazon.)
+- Blackberry, with its telephone lashed to a keyboard, was another empire until the iPhone.
+- By eliminating all the check-out steps required to buy something online, 1-Click gave Amazon a decisive edge against cart abandonment, which, according to some studies, averages 70 percent and remains one of the two or three biggest challenges to online retailers.
+- Amazon’s 1-Click would easily be the single most consequential button ever invented, but for the Facebook Like button.
+- Apple’s two great innovations, the graphical user interface and the touchscreen, are cousins united by a deeper vein of metaphor.
+- It may seem strange to say that the iPhone inherited its logic from the desktop computer, especially if you didn’t grow up using a mouse.
+- how you can drag apps around the home screen; the idea of an app itself, able to deliver email or calendar appointments or news; the back button and the close button.
+- That’s how metaphors work: Once their underlying logic becomes manifest, we forget that they were ever there.
+- In digesting new technologies, we climb a ladder of metaphors, and each rung helps us step up to the next.
+- Our prior assumptions lend us confidence about how a new technology works.
+- There is another breakdown in metaphor that we can watch from our own phones, one created by Apple. Throughout the mid-2000s, the company was lambasted in the design community for its skeuomorphs, which the Oxford English Dictionary defines as “an element of a graphic user interface which mimics a physical object.” ^bf026c
+- At one time, it was important for a file “folder” to indeed look like a folder, so that you knew it did the same thing. By the mid-2000s the details had gotten baroque.
+- When Ive took over software design at Apple in 2013, he introduced a clean new language for the iPhone’s operating system.
+- The rule for metaphor in design is fake it till you make it. Apple had made it, after faking it for so many years.
+- Beginning at Marshall Field’s in Chicago, Selfridge experimented with a retail concept that the world had never seen, in which the goods didn’t sit behind the counter. Instead, they were placed out on shelves, where shoppers could touch and see them on a whim, without ever needing a shopkeeper at all. Alone on a shelf, the goods had to sell themselves.28 A century later, this remains the standard in stores across the planet.
+- In 2018, Apple unveiled Shortcuts, a feature in which its voice assistant, Siri, could be used to do specific tasks directly inside an app, thus leaving out all the requisite taps and swipes.
+- Lakoff and Johnson suggested instead that the ideas that fill our minds don’t come from the pure faculties of reason—rather, we’d have no ideas without the bodily sensations upon which to ground them.
+- In one experiment, people who held a warm coffee cup were more likely to judge another person as trustworthy. Thus, “warming up” to someone didn’t seem to be just an abstract metaphor.
+- Participants in one experiment, when asked to think about the future, leaned slightly forward; when asked to think about the past, they leaned back. The underlying metaphor was that the future lay ahead.
+- One of Henry Dreyfuss’s first bestsellers was the Big Ben alarm clock, patented in 1931, which he gave a heavier base so that it would seem more reliable and of higher quality.
+- We still live with the idea that heaviness conveys quality.
+- Designers still scour the world for metaphors that relate not just to how we understand a product, but how we feel when we use it. The ways in which those metaphors are used reveals a different angle on user-friendliness, showing the ways beauty can be adapted to other uses.
+- This is almost a universal practice in design, creating mood boards to summon how something should look and feel, and then trying to translate those into form-giving metaphors and words.
+- “Designers have this tacit knowledge of abstract emotive experiences like trust and curiosity,” she explained. “Somehow they translate that into a qualitative attribute like the radius of an object, which is what CAD tools require from us.”
+- Personification lives with us every day, sometimes subtly, sometimes less so: Steve Jobs demanded that the screen and casing of the first Macintosh tilt ever so slightly upward, like a face turned up to greet you.
+- And the emotional design of cars rests largely on their fascia—the term of art for the grill and headlights that literally means “face.”
+- personification is just one of the ways designers use metaphors to create beauty.
+- In the user-friendly world, beauty is a tool that transforms something that’s easy to use into something we want to use.
+- “Beauty” is the word we use when a designer’s vision overlaps with our own.
+
+---

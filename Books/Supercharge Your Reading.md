@@ -1,0 +1,104 @@
+# Supercharge Your Reading
+
+---
+
+- Full Title: Supercharge Your Reading
+- Author: Maneetpaul Singh
+- Date Added: 2022-10-18
+- Last Highlighted: October 17, 2022
+
+---
+
+- Step 1: Embrace the Ecosystem 
+- There are three benefits to thinking of Kindle as an ecosystem instead of just one device. 
+- Reading Multiple Books 
+- The Kindle ecosystem makes reading multiple books a breeze. 
+- For every device I own with the Kindle app installed, I’m usually reading a different book in my library. 
+- Reading Everywhere 
+- Unlike physical books, using a Kindle enables me to read anywhere, no matter the time or location. I constantly have access to my entire library of books in my pocket. And the best part? I can buy a book on my Kindle at night, continue reading it the next day on my phone, pick up where I left off on my computer, and continue again on my Kindle the following night. All my devices remain in sync. 
+- Lifestyle Change 
+- On my phone’s home screen, I now keep the Kindle app front and center. During those small moments in the day when I would normally check social media, I instead try to read a few pages of a book. 
+- reading books on our digital devices instead of refreshing traditional social media apps will make a profound difference to your mental health. 
+- Step 2: Enjoy Instant Gratification 
+- Buying an e-book is a hundred times quicker than buying a physical book. The gap between wanting a book and reading it is minuscule. This instant availability has a few key advantages that are often overlooked. 
+- Pouncing on Inspiration 
+- The emotion of inspiration is temporary. When a new idea strikes, we tend to feel super-inspired, but then our levels of motivation slowly fade away if there’s no action. 
+- The ability to find and instantly buy books on any topic imaginable cannot be emphasized enough. When an idea strikes that has the potential to change our life, we need to be ready to take action. 
+- The Creator Economy 
+- In today’s world, the creator economy allows anyone to package their skills into an e-book. 
+- There’s a whole world of specialized e-books on the internet, written by relatively unknown creators 
+- Returning Books 
+- Returning Kindle books is not talked about enough. The policy is simple: seven days for a full refund (note this is for America—the return policy might be different for other parts of the world). The ability to instantly return e-books takes the pressure off when choosing which book to buy. If I’m trying to choose between multiple books on a specific topic, I can take a chance on whichever one looks most appealing. If it turns out to be a bad choice, I can easily return it and buy something else. 
+- Step 3: Read More Than Books 
+- When I read on my Kindle, the feeling is very special. It’s a device I only use to read. There are no distractions, and it’s the device I specifically associate with long-form reading. Reading on a website simply can’t compare. 
+- There are three pillars to the Send to Kindle feature. 
+- Saving Articles 
+- Email to Kindle 
+- So how do you email documents to your Kindle? 
+- To do this, go to the Amazon website on your computer and visit the Content & Devices section of your account. Click on the Preferences tab, then scroll down to Personal Document Settings. This is where you can add your email as an approved sender 
+- when emailing longer PDFs to your Kindle, try typing “convert” in the subject line. This will (attempt to) convert the PDF to an e-book format, which will allow you to adjust features like fonts, font sizes, margins, etc. By default, you can’t do these customizations with standard PDFs. 
+- Third-Party Books 
+- E-books use special formats that allow for customizations and more flexibility than is the case with standard PDFs. The most popular e-book format is EPUB. This is used widely in the e-book industry and was just recently adopted by Amazon. 
+- Public domain books are old books that have surpassed their copyright coverage. Translation: they’re now free for anyone to download. You can find a ton of free public domain books on a website called Project Gutenberg. 
+- Step 4: Be Competitive 
+- Organizing Books 
+- Gamification 
+- Another hidden feature of Goodreads is the stats page. My favorite is a graph displaying how many pages I’ve read over time. It’s a great visual feature that shows how my reading has improved over the past months and years. 
+- I find having a goal of two books a month is more than enough, 
+- Book Recommendations 
+- Goodreads is a treasure chest of book recommendations. The ability to follow people who have similar interests unlocks a whole new world of books. 
+- Step 5: Be Sure to Listen 
+- Step 6: Learn New Words 
+- The ability to look up any word in the dictionary while you read is an underrated feature of owning a Kindle. 
+- The Problem with Traditional Books 
+- Handwritten notes are often seen as the gold standard for retaining knowledge, but I’d argue the annoyance and friction involved with note-taking simply isn’t worth it. 
+- Secondly, taking handwritten notes disrupts the flow of reading. When I’m reading a good book, the last thing I want to do is put it down for any reason. 
+- Lastly, handwritten notes are useless if there’s no system in place to review them. 
+- Step 7: Put in a Little Effort 
+- When reading a new book, I try to approach it with a “consume once, remember twice” mindset. I aim to put in some work the first time round, so if I ever have to reference the material in the future, I don’t have to consume the entire book again or research summaries. I can just reference my personal notes. 
+- Highlighting 
+- My rule for highlighting is simple: do it often without limitation. If something sticks out, highlight it. 
+- When we highlight on Kindle, we achieve two very important things. 
+- Firstly, highlighting will naturally create a database of our favorite quotes. 
+- Secondly, highlighting keeps us mindful. When I read books with the intention of highlighting, I become much more present. Instead of skimming the text, I try to really comprehend what is being said. Highlighting slows me down enough to read a book with the right intentions. The goal shifts from wanting to finish another book to learning the most I possibly can. 
+- Capturing Notes 
+- If Kindle highlights are building blocks, then short notes define how big those blocks are. Some highlights carry more weight than others. When we attach a note to a highlight, we are magnifying the importance of the highlight. 
+- Rather, my goal is to capture what I’m thinking in the least amount of words, so I can remember it later. Even if it’s just a few words, as long as I’m specific enough to remember what I was thinking when I originally did the highlighting, that’s all that matters. 
+- Highlighting quotes, without any notes, is tempting because it’s easier. But through experience, I’ve found that taking short notes can be the difference between reading a good book and reading a great book. The more effort we put into the book, the more we’ll get out of it. 
+- Step 8: Don’t Forget to Review 
+- Contrary to what most people feel, I’ve discovered handwritten notes don’t help my knowledge retention in the long term. Such notes are temporary. Yes, technically speaking, we can reference handwritten notes for eternity if we take care of them, but in reality, once we begin reading a new book, we will rarely pick up the notes from previous books. They sit on a shelf gathering dust. 
+- Shifting knowledge from our short-term memory to our long-term memory requires frequent exposure and repetition. Most of us are too lazy to actively review handwritten notes or take the time to digitize them. 
+- My Clippings 
+- After making some highlights on your Kindle, you’ll see a new book in your library called My Clippings. 
+- My Clippings is the easiest way to review annotations on your Kindle. It will always be there and is a reliable source of truth. However, it’s limited in that it will only show you the notes you make on the device itself. If you’re reading between multiple devices in the Kindle ecosystem, this won’t be very helpful. My Clippings also requires manual effort to actively review our notes, which, let’s face it, most of us will never do. 
+- In-Book Review 
+- By tapping the menu icon (the one next to the Aa icon) followed by the “Notes & Highlights” option, we will be able to view all our notes for the book we’re currently reading. 
+- Email PDF 
+- In the same “Notes & Highlights” section mentioned above, we can scroll to the bottom and tap a button labeled “Export Notes.” This will then send all our annotations for the book to our registered Amazon email address as a nicely formatted PDF. 
+- Online 
+- There are two better ways to view annotations in the cloud. The first technique is via Goodreads. 
+- Goodreads keeps all our notes private by default. 
+- Another cool feature specific to Goodreads is it will show you a percentage next to each highlight, representing how far into the book each highlight was made. This provides context for the highlight, so you know roughly where it appeared in the book. 
+- By visiting read.amazon.com/notebook, we can see all the Amazon books we own that contain highlights. This page is very similar to the one on Goodreads, with almost the exact same features. 
+- Step 9: Automate the Process 
+- Automated Reviews 
+- The number one feature Readwise offers is automation of the review process for highlights. 
+- Readwise removes all friction from the review process. Once you’ve completed the initial configuration, Readwise will begin sending you a daily review email with five random highlights across all the books you’ve annotated. Reviewing this daily email takes just a few minutes and is fully automated. 
+- This daily review is the secret to becoming an advanced reader. In my personal daily review, I still get highlights from books I read years ago when I first bought my Kindle. It ensures I’m always thinking about concepts I learned, and slowly transition them to my long-term memory. 
+- Spaced Repetition 
+- With books, I see many readers talk about their “book completion routine.” This typically involves reviewing all notes after finishing a book, and writing a short summary or bullet list with top takeaways. 
+- With Readwise, the daily review uses a system called spaced repetition. This is a scientific method for reviewing notes over a longer period of time, to help commit learnings to long-term memory. 
+- Gamification 
+- When I first started doing the daily review, I really loved it, but it eventually became an annoying email I no longer enjoyed. The gamification features of the Readwise app have been my way of combating this. 
+- I like streaks on Readwise because they’re more forgiving than other services. If I miss a day, I have the ability to catch up and make up for the missed day—for up to seven days—and still retain my streak. 
+- There’s also the stats page. In addition to seeing my streak, I can also see which place I’m in on the global leaderboard. For competitive people (like myself), this is a fun way to feel like I’m making progress, trying to outperform my bookworm peers. The stats page also has cool data like a graph of how many highlights I’ve been making over the past year, the total number of highlights I’ve ever made, and the specific books I’ve highlighted the most. 
+- A Central Repository 
+- Readwise can be used for more than just books. It can take highlights from multiple sources and compile them into one central database. 
+- Step 10: Just Read 
+- Reading on Kindle is best when it’s done at your own pace, with books that you love. If comparing is an issue for you, don’t use apps like Goodreads to track your metrics. 
+- At the end of the day, what matters is reading books. Kindles can help us do that better—but they shouldn’t get in the way of it. 
+- Step 12 (Bonus): Join a Book Club 
+- Step 13 (Bonus): Don’t Finish Every Book 
+- Books should be treated like blog posts. Some will immerse us fully and make us want to read every word. Others won’t be as captivating. For these, I’ve given myself permission to skim, skip chapters, or stop reading them entirely. 
+- Forcing yourself to read a book you aren’t interested in will totally discourage you from reading. I would rather put down a book and maintain my reading habit than force myself to read something I don’t like. 
+- Naval Ravikant says it best: “If it doesn’t grab my attention within the first chapter in a meaningful, positive way, I’ll either drop the book or skip ahead a few chapters. I don’t believe in delayed gratification when there are an infinite number of books out there to read. There are so many great books.” 

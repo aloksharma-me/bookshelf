@@ -1,0 +1,454 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Articulating Design Decisions — Visual Map</title>
+<style>
+  :root{
+    --ink:#1b2430; --ink-soft:#46535f; --mut:#7a8794;
+    --paper:#f6f3ec; --card:#ffffff; --line:#e4ddcf;
+    --accent:#e07a2f;            /* amber/orange (book cover) */
+    --accent-deep:#b85c18;
+    --p1:#2f6f6b; --p2:#3a6ea5; --p3:#7a52b3; --p4:#c2562f; --p5:#5a6b2f;
+    --shadow:0 1px 2px rgba(27,36,48,.06), 0 8px 24px rgba(27,36,48,.07);
+    --radius:14px;
+  }
+  *{box-sizing:border-box}
+  html{scroll-behavior:smooth}
+  body{
+    margin:0; background:var(--paper); color:var(--ink);
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    line-height:1.55; -webkit-font-smoothing:antialiased;
+  }
+  .wrap{max-width:1080px; margin:0 auto; padding:0 22px}
+
+  /* ---------- header ---------- */
+  header{padding:54px 0 26px; border-bottom:1px solid var(--line)}
+  .eyebrow{font-size:12px; letter-spacing:.16em; text-transform:uppercase; color:var(--accent-deep); font-weight:700}
+  h1{font-size:clamp(28px,4.4vw,46px); line-height:1.08; margin:.32em 0 .15em; letter-spacing:-.01em}
+  .byline{color:var(--ink-soft); font-size:17px; margin:0 0 18px}
+  .byline b{color:var(--ink)}
+  .meta{display:flex; flex-wrap:wrap; gap:10px; margin-top:14px}
+  .chip{background:var(--card); border:1px solid var(--line); border-radius:999px; padding:6px 13px; font-size:13px; color:var(--ink-soft); box-shadow:var(--shadow)}
+  .chip b{color:var(--ink)}
+  .thesis{
+    margin:24px 0 4px; padding:18px 22px; background:#fff7ee;
+    border:1px solid #f0d8bd; border-radius:12px;
+    font-size:18px; color:var(--ink);
+  }
+  .thesis span{color:var(--mut); font-size:14px; display:block; margin-top:6px}
+
+  /* ---------- nav ---------- */
+  nav{position:sticky; top:0; z-index:20; background:rgba(246,243,236,.9); backdrop-filter:blur(8px); border-bottom:1px solid var(--line)}
+  nav .wrap{display:flex; gap:6px; flex-wrap:wrap; padding-top:10px; padding-bottom:10px}
+  nav a{font-size:13px; color:var(--ink-soft); text-decoration:none; padding:6px 11px; border-radius:999px; border:1px solid transparent}
+  nav a:hover{background:var(--card); border-color:var(--line); color:var(--ink)}
+
+  section{padding:40px 0 8px}
+  .sec-head{display:flex; align-items:baseline; gap:12px; margin-bottom:6px}
+  .sec-head h2{font-size:24px; margin:0; letter-spacing:-.01em}
+  .sec-head .n{color:var(--accent-deep); font-weight:700; font-size:14px}
+  .sec-sub{color:var(--mut); margin:0 0 22px; font-size:15px; max-width:62ch}
+
+  /* ---------- journey strip ---------- */
+  .journey{display:grid; grid-template-columns:repeat(5,1fr); gap:10px; margin:6px 0 8px}
+  .phase{position:relative; background:var(--card); border:1px solid var(--line); border-radius:12px; padding:14px 13px; box-shadow:var(--shadow)}
+  .phase .pn{font-size:11px; letter-spacing:.12em; text-transform:uppercase; color:var(--pc); font-weight:700}
+  .phase h3{font-size:15px; margin:5px 0 4px}
+  .phase p{margin:0; font-size:12.5px; color:var(--mut)}
+  .phase .chs{margin-top:9px; font-size:11.5px; color:var(--ink-soft); font-weight:600}
+  .arrow{text-align:center; color:var(--mut); font-size:13px; margin:2px 0 16px; letter-spacing:.3em}
+
+  /* ---------- chapter cards ---------- */
+  .group-label{display:flex; align-items:center; gap:10px; margin:26px 0 12px; font-size:13px; font-weight:700; letter-spacing:.04em; text-transform:uppercase; color:var(--pc)}
+  .group-label::after{content:""; flex:1; height:1px; background:var(--line)}
+  .cards{display:grid; grid-template-columns:1fr 1fr; gap:14px}
+  .card{background:var(--card); border:1px solid var(--line); border-radius:var(--radius); box-shadow:var(--shadow); overflow:hidden}
+  .card > button{
+    all:unset; cursor:pointer; display:flex; align-items:center; gap:13px; width:100%;
+    padding:15px 17px; box-sizing:border-box;
+  }
+  .card > button:focus-visible{outline:2px solid var(--accent); outline-offset:-2px}
+  .num{flex:none; width:34px; height:34px; border-radius:9px; background:var(--pc); color:#fff; font-weight:700; display:flex; align-items:center; justify-content:center; font-size:15px}
+  .ct{flex:1}
+  .ct h4{margin:0; font-size:15.5px; line-height:1.25}
+  .ct .tag{font-size:12px; color:var(--mut)}
+  .tw{flex:none; color:var(--mut); transition:transform .22s ease; font-size:13px}
+  .card.open .tw{transform:rotate(90deg)}
+  .body{max-height:0; overflow:hidden; transition:max-height .3s ease}
+  .body-in{padding:2px 18px 17px 18px}
+  .body ul{margin:0; padding-left:18px}
+  .body li{margin:7px 0; font-size:13.6px; color:var(--ink-soft)}
+  .body li b{color:var(--ink)}
+
+  /* ---------- frameworks ---------- */
+  .fw-grid{display:grid; grid-template-columns:1fr 1fr; gap:14px}
+  .fw{background:var(--card); border:1px solid var(--line); border-radius:var(--radius); padding:18px 19px; box-shadow:var(--shadow)}
+  .fw h4{margin:0 0 3px; font-size:16px}
+  .fw .lead{margin:0 0 12px; font-size:13px; color:var(--mut)}
+  .steps{display:flex; flex-direction:column; gap:8px}
+  .step{display:flex; gap:11px; align-items:flex-start}
+  .step .k{flex:none; width:24px; height:24px; border-radius:7px; background:#fff3e6; color:var(--accent-deep); font-weight:800; font-size:13px; display:flex; align-items:center; justify-content:center; border:1px solid #f0d8bd}
+  .step .t{font-size:13.4px; color:var(--ink-soft)}
+  .step .t b{color:var(--ink)}
+  .pillrow{display:flex; flex-wrap:wrap; gap:8px}
+  .pill{background:#f3efe6; border:1px solid var(--line); border-radius:9px; padding:8px 11px; font-size:13px; color:var(--ink-soft)}
+  .pill b{color:var(--ink); display:block; font-size:13.2px}
+  .pill span{font-size:11.5px; color:var(--mut)}
+
+  /* ---------- glossary ---------- */
+  .gloss{display:grid; grid-template-columns:1fr 1fr; gap:12px}
+  .term{background:var(--card); border:1px solid var(--line); border-radius:12px; padding:14px 16px; box-shadow:var(--shadow)}
+  .term b{font-size:14.5px}
+  .term p{margin:4px 0 0; font-size:13px; color:var(--ink-soft)}
+
+  /* ---------- quotes ---------- */
+  .quotes{display:grid; grid-template-columns:1fr 1fr; gap:14px}
+  blockquote{margin:0; background:var(--card); border:1px solid var(--line); border-radius:12px; padding:18px 20px; box-shadow:var(--shadow); position:relative}
+  blockquote::before{content:"\201C"; position:absolute; top:2px; left:14px; font-size:46px; color:#ecdcc6; font-family:Georgia,serif}
+  blockquote p{margin:8px 0 0; font-size:14.5px; color:var(--ink); font-style:italic}
+  blockquote cite{display:block; margin-top:10px; font-style:normal; font-size:12.5px; color:var(--mut)}
+
+  footer{margin-top:42px; padding:26px 0 60px; border-top:1px solid var(--line); color:var(--mut); font-size:13px}
+  footer a{color:var(--accent-deep)}
+
+  @media(max-width:760px){
+    .journey{grid-template-columns:1fr 1fr}
+    .cards,.fw-grid,.gloss,.quotes{grid-template-columns:1fr}
+    nav .wrap{overflow-x:auto; flex-wrap:nowrap}
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="wrap">
+    <div class="eyebrow">Book Map · UX / Stakeholder Communication</div>
+    <h1>Articulating Design Decisions</h1>
+    <p class="byline">by <b>Tom Greever</b> — Communicate with Stakeholders, Keep Your Sanity, and Deliver the Best User Experience</p>
+    <div class="meta">
+      <span class="chip"><b>11</b> chapters</span>
+      <span class="chip"><b>549</b> highlights</span>
+      <span class="chip"><b>5</b> phases</span>
+      <span class="chip"><b>6</b> core frameworks</span>
+    </div>
+    <div class="thesis">
+      “The ability to effectively articulate design decisions is critical — because <b>the most articulate person usually wins.</b>”
+      <span>The book’s central claim: communication, not raw design talent, decides whose ideas ship.</span>
+    </div>
+  </div>
+</header>
+
+<nav><div class="wrap">
+  <a href="#journey">The Journey</a>
+  <a href="#chapters">Chapters</a>
+  <a href="#frameworks">Frameworks</a>
+  <a href="#glossary">Tactics &amp; Terms</a>
+  <a href="#quotes">Quotes</a>
+</div></nav>
+
+<div class="wrap">
+
+  <!-- ============ JOURNEY ============ -->
+  <section id="journey">
+    <div class="sec-head"><span class="n">01</span><h2>The Journey of a Design Conversation</h2></div>
+    <p class="sec-sub">The 11 chapters aren’t a grab-bag of tips — they trace one arc, from preparing before a meeting to following up long after it. Read it left to right.</p>
+    <div class="journey">
+      <div class="phase" style="--pc:var(--p1)"><div class="pn">Foundation</div><h3>Why &amp; Who</h3><p>Communication wins; know your stakeholders.</p><div class="chs">Ch 1–2</div></div>
+      <div class="phase" style="--pc:var(--p2)"><div class="pn">Before</div><h3>Design the Meeting</h3><p>Set context, prep, anticipate reactions.</p><div class="chs">Ch 3</div></div>
+      <div class="phase" style="--pc:var(--p3)"><div class="pn">In the room</div><h3>Listen → Respond</h3><p>Listen, mindset, response, message, agreement.</p><div class="chs">Ch 4–8</div></div>
+      <div class="phase" style="--pc:var(--p4)"><div class="pn">After</div><h3>Follow Up &amp; Adapt</h3><p>Recap fast; turn changes into opportunity.</p><div class="chs">Ch 9–10</div></div>
+      <div class="phase" style="--pc:var(--p5)"><div class="pn">The other side</div><h3>For Executives</h3><p>How stakeholders can help designers.</p><div class="chs">Ch 11</div></div>
+    </div>
+    <div class="arrow">→ → →</div>
+  </section>
+
+  <!-- ============ CHAPTERS ============ -->
+  <section id="chapters">
+    <div class="sec-head"><span class="n">02</span><h2>Chapters at a Glance</h2></div>
+    <p class="sec-sub">Click any chapter to expand its key takeaways. <a href="#" id="toggleAll" style="color:var(--accent-deep)">Expand all</a></p>
+
+    <!-- Phase 1 -->
+    <div class="group-label" style="--pc:var(--p1)">Foundation · Why &amp; Who</div>
+    <div class="cards" data-pc="var(--p1)">
+      <div class="card" style="--pc:var(--p1)">
+        <button><span class="num">1</span><span class="ct"><h4>Great Designers Are Great Communicators</h4><span class="tag">The core argument</span></span><span class="tw">▶</span></button>
+        <div class="body"><div class="body-in"><ul>
+          <li>All design is <b>subjective</b> — there’s little shared understanding of what “good” means, which is why it’s so hard to talk about.</li>
+          <li>A design only succeeds when it does three things: <b>solves a problem, is easy for users, and is supported by everyone.</b></li>
+          <li>Being articulate <b>imparts intelligence, demonstrates intentionality, expresses confidence, and shows respect.</b></li>
+          <li>The discipline: for every decision, write down <b>what problem it solves, how it affects the user, and why it beats the alternative.</b></li>
+        </ul></div></div>
+      </div>
+      <div class="card" style="--pc:var(--p1)">
+        <button><span class="num">2</span><span class="ct"><h4>Stakeholders Are People Too</h4><span class="tag">Read the room</span></span><span class="tw">▶</span></button>
+        <div class="body"><div class="body-in"><ul>
+          <li>Everyone is unique — tailor how you engage by <b>role and values</b>.</li>
+          <li><b>Executives:</b> bring them up to speed fast, present, solicit feedback. <b>Developers:</b> analytical; may not even “see” UI details.</li>
+          <li>Also map <b>product owners, project managers, and marketing/content/creative</b> — each cares about different things.</li>
+          <li>Knowing what each person values lets you predict — and prepare for — their reactions.</li>
+        </ul></div></div>
+      </div>
+    </div>
+
+    <!-- Phase 2 -->
+    <div class="group-label" style="--pc:var(--p2)">Before · Design the Meeting</div>
+    <div class="cards">
+      <div class="card" style="--pc:var(--p2)">
+        <button><span class="num">3</span><span class="ct"><h4>Design the Meeting</h4><span class="tag">Preparation is the work</span></span><span class="tw">▶</span></button>
+        <div class="body"><div class="body-in"><ul>
+          <li><b>Set the context:</b> state the goal, recap last time, show a timeline, specify the feedback you need — then state the goal again.</li>
+          <li><b>Optimize for memory:</b> primacy &amp; recency, repeat the goal 3×, add surprise, use mixed media.</li>
+          <li><b>Anticipate reactions:</b> write down likely objections, prepare alternatives, and have data ready (but only use it if needed).</li>
+          <li><b>Build a support network</b> and <b>do a dress rehearsal</b> — practicing out loud is “the usability test of being articulate.”</li>
+        </ul></div></div>
+      </div>
+      <div class="card" style="--pc:var(--p2);opacity:.55;pointer-events:none;background:transparent;box-shadow:none;border-style:dashed">
+        <button><span class="num" style="background:transparent;color:var(--p2);border:1px dashed var(--p2)">✦</span><span class="ct"><h4>Everything here is pre-work</h4><span class="tag">The meeting is won before it starts</span></span></button>
+      </div>
+    </div>
+
+    <!-- Phase 3 -->
+    <div class="group-label" style="--pc:var(--p3)">In the room · Listen → Respond → Agree</div>
+    <div class="cards">
+      <div class="card" style="--pc:var(--p3)">
+        <button><span class="num">4</span><span class="ct"><h4>Listen to Understand</h4><span class="tag">Before you respond</span></span><span class="tw">▶</span></button>
+        <div class="body"><div class="body-in"><ul>
+          <li><b>Implicit listening:</b> let them talk, hear what isn’t said, and master <b>the pause</b> before responding.</li>
+          <li><b>Uncover the real problem</b> behind the request: “What problem are you trying to solve by suggesting this?”</li>
+          <li><b>Explicit listening:</b> write everything down — notes prevent repeat conversations, build trust, and keep the meeting on track.</li>
+          <li><b>Repeat &amp; rephrase:</b> convert “likes/dislikes” into “works/doesn’t work,” and lead with “<b>What I hear you saying…</b>”</li>
+        </ul></div></div>
+      </div>
+      <div class="card" style="--pc:var(--p3)">
+        <button><span class="num">5</span><span class="ct"><h4>Get in the Right Mindset</h4><span class="tag">Your inner stance</span></span><span class="tw">▶</span></button>
+        <div class="body"><div class="body-in"><ul>
+          <li>Your role is to <b>lead a conversation</b>, not absorb an onslaught of changes.</li>
+          <li><b>Give up control</b> and <b>check your ego</b> — defensiveness is the enemy of a good response.</li>
+          <li><b>Lead with a YES</b> (meetings are improv). Avoid “Yes, but…” — it’s just “no” in disguise.</li>
+          <li>Change your vocabulary; make a graceful transition with <b>“Thank, Repeat, Prepare.”</b></li>
+        </ul></div></div>
+      </div>
+      <div class="card" style="--pc:var(--p3)">
+        <button><span class="num">6</span><span class="ct"><h4>Form a Response</h4><span class="tag">Strategy → tactics</span></span><span class="tw">▶</span></button>
+        <div class="body"><div class="body-in"><ul>
+          <li>Anchor every response in <b>The Big Three</b>: problem, user, alternative.</li>
+          <li><b>Strategies:</b> appeal to a nobler motive, represent the user, demonstrate effectiveness (prototype it).</li>
+          <li><b>Five tactics:</b> show a comparison · propose an alternative · give them a choice · ask others to weigh in · postpone the decision.</li>
+          <li>“Give them a choice” works because <b>fear of loss outweighs the promise of gain.</b></li>
+        </ul></div></div>
+      </div>
+      <div class="card" style="--pc:var(--p3)">
+        <button><span class="num">7</span><span class="ct"><h4>Choose a Message</h4><span class="tag">A reusable menu</span></span><span class="tw">▶</span></button>
+        <div class="body"><div class="body-in"><ul>
+          <li><b>Business:</b> helps achieve a goal · facilitates a use case · communicates branding.</li>
+          <li><b>Design:</b> uses a common pattern · draws the user’s attention · creates a flow for the user.</li>
+          <li><b>Research:</b> validated by data · revealed in testing · supported by other research.</li>
+          <li><b>Limitations:</b> not enough resources · limited by technology · complies with a standard.</li>
+        </ul></div></div>
+      </div>
+      <div class="card" style="--pc:var(--p3)">
+        <button><span class="num">8</span><span class="ct"><h4>Lock In Agreement</h4><span class="tag">Close the loop</span></span><span class="tw">▶</span></button>
+        <div class="body"><div class="body-in"><ul>
+          <li>The <b>IDEAL Response</b>: Identify the problem · Describe your solution · Empathize with the user · Appeal to the business · Lock in agreement.</li>
+          <li><b>Be direct:</b> “Before we move on, are we all in agreement to move forward with this?”</li>
+          <li><b>Highlight the benefit</b> in how you ask: “Do you agree we should improve conversion by removing these fields?”</li>
+          <li>A direct question <b>forces a direct answer</b> — preventing the decision from re-surfacing next meeting.</li>
+        </ul></div></div>
+      </div>
+      <div class="card" style="--pc:var(--p3);opacity:.55;pointer-events:none;background:transparent;box-shadow:none;border-style:dashed">
+        <button><span class="num" style="background:transparent;color:var(--p3);border:1px dashed var(--p3)">✦</span><span class="ct"><h4>The heart of the book</h4><span class="tag">Listen · respond · secure the “yes”</span></span></button>
+      </div>
+    </div>
+
+    <!-- Phase 4 -->
+    <div class="group-label" style="--pc:var(--p4)">After · Follow Up &amp; Adapt</div>
+    <div class="cards">
+      <div class="card" style="--pc:var(--p4)">
+        <button><span class="num">9</span><span class="ct"><h4>Follow Up Afterward</h4><span class="tag">Cement the decision</span></span><span class="tw">▶</span></button>
+        <div class="body"><div class="body-in"><ul>
+          <li><b>The meeting after the meeting:</b> stick around — the hallway is often the most productive place.</li>
+          <li><b>Follow up fast</b> (within an hour): thank, recap decisions, and focus on actions &amp; next steps.</li>
+          <li><b>Apply filters:</b> not every idea deserves to be recorded — read intent, agreement, and influence.</li>
+          <li><b>Do something, even if it’s wrong:</b> when stuck, make the call and communicate it with a deadline.</li>
+        </ul></div></div>
+      </div>
+      <div class="card" style="--pc:var(--p4)">
+        <button><span class="num">10</span><span class="ct"><h4>Dealing with Changes</h4><span class="tag">When you disagree</span></span><span class="tw">▶</span></button>
+        <div class="body"><div class="body-in"><ul>
+          <li>Beware <b>bike-shedding</b> (Parkinson’s Law of Triviality), and the lore of <b>the duck</b> and <b>hairy arms</b>.</li>
+          <li>Diagnose what’s really going on: misunderstanding · you’re wrong · an unmet need · they want to be heard.</li>
+          <li><b>Make lemonade</b> — treat forced changes as a prompt for an even better solution.</li>
+          <li><b>The Bank Account of Trust:</b> every interaction is a deposit or withdrawal. Learn which battles are worth fighting.</li>
+        </ul></div></div>
+      </div>
+    </div>
+
+    <!-- Phase 5 -->
+    <div class="group-label" style="--pc:var(--p5)">The other side · For Executives</div>
+    <div class="cards">
+      <div class="card" style="--pc:var(--p5)">
+        <button><span class="num">11</span><span class="ct"><h4>How Executives Can Help Designers</h4><span class="tag">A one-pager for stakeholders</span></span><span class="tw">▶</span></button>
+        <div class="body"><div class="body-in"><ul>
+          <li><b>Ten Tips:</b> focus on what works · don’t hand over solutions · ask lots of questions · don’t claim to be the user · let designers explain.</li>
+          <li>Empower designers to decide · use helpful language · ask if there’s data · be prepared · give them what they need to succeed.</li>
+          <li><b>Design Project Checklist</b> — kickoff questions across Vision/Goals, Users, Workflow/Communication, Access, and Design/Technical requirements.</li>
+          <li>Decide <b>who makes the final call</b> per role — “No committees.”</li>
+        </ul></div></div>
+      </div>
+      <div class="card" style="--pc:var(--p5);opacity:.55;pointer-events:none;background:transparent;box-shadow:none;border-style:dashed">
+        <button><span class="num" style="background:transparent;color:var(--p5);border:1px dashed var(--p5)">✦</span><span class="ct"><h4>Share this chapter upward</h4><span class="tag">Set collaboration norms with your managers</span></span></button>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ FRAMEWORKS ============ -->
+  <section id="frameworks">
+    <div class="sec-head"><span class="n">03</span><h2>The Core Frameworks</h2></div>
+    <p class="sec-sub">The reusable engines that run underneath the chapters — worth memorising.</p>
+    <div class="fw-grid">
+
+      <div class="fw">
+        <h4>The Big Three</h4>
+        <p class="lead">Answer these for every decision — to yourself first, then to stakeholders.</p>
+        <div class="steps">
+          <div class="step"><span class="k">1</span><span class="t"><b>What problem does it solve?</b> Tie it to a measurable business goal.</span></div>
+          <div class="step"><span class="k">2</span><span class="t"><b>How does it affect the user?</b> Common sense + research.</span></div>
+          <div class="step"><span class="k">3</span><span class="t"><b>Why is it better than the alternative?</b> Keep your rejected options.</span></div>
+        </div>
+      </div>
+
+      <div class="fw">
+        <h4>The IDEAL Response</h4>
+        <p class="lead">How to deliver a response and close out agreement.</p>
+        <div class="steps">
+          <div class="step"><span class="k">I</span><span class="t"><b>Identify</b> the problem.</span></div>
+          <div class="step"><span class="k">D</span><span class="t"><b>Describe</b> your solution.</span></div>
+          <div class="step"><span class="k">E</span><span class="t"><b>Empathize</b> with the user.</span></div>
+          <div class="step"><span class="k">A</span><span class="t"><b>Appeal</b> to the business.</span></div>
+          <div class="step"><span class="k">L</span><span class="t"><b>Lock in</b> agreement — ask “Do you agree?”</span></div>
+        </div>
+      </div>
+
+      <div class="fw">
+        <h4>Five Response Tactics</h4>
+        <p class="lead">Pick one in the moment when a change is suggested.</p>
+        <div class="pillrow">
+          <span class="pill"><b>Show a comparison</b><span>Side by side</span></span>
+          <span class="pill"><b>Propose an alternative</b><span>Add your expertise</span></span>
+          <span class="pill"><b>Give them a choice</b><span>Loss aversion</span></span>
+          <span class="pill"><b>Ask others to weigh in</b><span>Directly + neutrally</span></span>
+          <span class="pill"><b>Postpone the decision</b><span>Buy time to get it right</span></span>
+        </div>
+      </div>
+
+      <div class="fw">
+        <h4>Thank · Repeat · Prepare</h4>
+        <p class="lead">A one-sentence transition from their feedback to your response.</p>
+        <div class="steps">
+          <div class="step"><span class="k">T</span><span class="t"><b>Thank</b> them for their time and input.</span></div>
+          <div class="step"><span class="k">R</span><span class="t"><b>Repeat</b> / summarise what they said.</span></div>
+          <div class="step"><span class="k">P</span><span class="t"><b>Prepare</b> them for how you’ll respond.</span></div>
+        </div>
+      </div>
+
+      <div class="fw">
+        <h4>The Bank Account of Trust</h4>
+        <p class="lead">A model for the long game with every stakeholder.</p>
+        <div class="steps">
+          <div class="step"><span class="k">+</span><span class="t"><b>Deposits:</b> agreeing, hitting metrics, delivering designs they love.</span></div>
+          <div class="step"><span class="k">–</span><span class="t"><b>Withdrawals:</b> missed deadlines, refusing changes (even when you’re right).</span></div>
+          <div class="step"><span class="k">★</span><span class="t"><b>Goal:</b> a balance so high their default is to trust your choices.</span></div>
+        </div>
+      </div>
+
+      <div class="fw">
+        <h4>The Message Menu</h4>
+        <p class="lead">Four families of reusable justifications (Ch 7).</p>
+        <div class="pillrow">
+          <span class="pill"><b>Business</b><span>Goal · use case · branding</span></span>
+          <span class="pill"><b>Design</b><span>Pattern · attention · flow</span></span>
+          <span class="pill"><b>Research</b><span>Data · testing · other research</span></span>
+          <span class="pill"><b>Limitations</b><span>Resources · tech · standards</span></span>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- ============ GLOSSARY ============ -->
+  <section id="glossary">
+    <div class="sec-head"><span class="n">04</span><h2>Tactics &amp; Terms</h2></div>
+    <p class="sec-sub">The book’s memorable coinages and the jargon worth knowing.</p>
+    <div class="gloss">
+      <div class="term"><b>🦆 Painting a duck</b><p>Deliberately add an obvious, removable element so stakeholders fixate on cutting <i>it</i> instead of the parts you care about. (Jeff Atwood / Interplay’s Battle Chess.)</p></div>
+      <div class="term"><b>💪 Hairy arms</b><p>Make an unwanted option subtly unappealing so the decision-maker rejects it for your preferred one. (1940s Disney animation lore.)</p></div>
+      <div class="term"><b>🔘 CEO button</b><p>An unexpected executive request to add a feature that destroys the balance of a project.</p></div>
+      <div class="term"><b>🏠 Home-page syndrome</b><p>The home screen becomes a dumping ground for every link, button, and banner — wrecking usability.</p></div>
+      <div class="term"><b>🚲 Bike-shedding</b><p>Spending disproportionate meeting time on a trivial, easily-understood issue. From Parkinson’s Law of Triviality.</p></div>
+      <div class="term"><b>↩️ Reflective data</b><p>Data collected <i>after</i> a change to compare before-and-after, vs. existing data already on hand.</p></div>
+      <div class="term"><b>👥 Design-by-committee</b><p>Design driven by merged, compromised suggestions rather than a coherent vision.</p></div>
+      <div class="term"><b>🤝 Relational capital</b><p>Goodwill and influence built within an organisation that can be leveraged to support a decision.</p></div>
+      <div class="term"><b>🎚️ Fidelity (low/high)</b><p>How detailed/polished an artifact is — from rough wireframes to ship-ready visuals.</p></div>
+      <div class="term"><b>🧠 Cognitive load</b><p>The mental effort to process information; good prep and notes reduce it for you and stakeholders.</p></div>
+    </div>
+  </section>
+
+  <!-- ============ QUOTES ============ -->
+  <section id="quotes">
+    <div class="sec-head"><span class="n">05</span><h2>Lines Worth Keeping</h2></div>
+    <p class="sec-sub">Phrases to deploy verbatim — and the ones that capture the philosophy.</p>
+    <div class="quotes">
+      <blockquote><p>The most articulate person usually wins.</p><cite>— Tom Greever, the book’s thesis</cite></blockquote>
+      <blockquote><p>What I hear you saying…</p><cite>— The opening that proves you listened before you respond</cite></blockquote>
+      <blockquote><p>When someone offers you a challenge, don’t think of all the reasons why you can’t do it. Instead, say, “Yes!” Then figure out how you’ll get it done.</p><cite>— On leading with a YES (improv philosophy)</cite></blockquote>
+      <blockquote><p>That looks great. Just one thing: get rid of the duck.</p><cite>— Coding Horror (Jeff Atwood), the origin of the duck</cite></blockquote>
+      <blockquote><p>What we’re looking for is agreement to move forward, not agreement on the solution. Forward momentum is the goal, not consensus.</p><cite>— On getting support</cite></blockquote>
+      <blockquote><p>Practicing for a meeting is the usability test of being articulate.</p><cite>— On the dress rehearsal</cite></blockquote>
+    </div>
+  </section>
+
+  <footer>
+    Visual map generated from your book-notes folder · <b>Articulating Design Decisions</b> by Tom Greever (549 highlights).
+    Companion notes in this folder: Quotes · Words · Ideas · Bibliography. Source highlights remain in the master &amp; chapter files.
+  </footer>
+
+</div>
+
+<script>
+  // expand / collapse individual chapter cards
+  document.querySelectorAll('.card > button').forEach(function(btn){
+    var card = btn.parentElement;
+    var body = card.querySelector('.body');
+    if(!body) return;
+    btn.addEventListener('click', function(){
+      var open = card.classList.toggle('open');
+      body.style.maxHeight = open ? body.scrollHeight + 'px' : '0px';
+    });
+  });
+
+  // expand / collapse all
+  var toggleAll = document.getElementById('toggleAll');
+  var allOpen = false;
+  toggleAll.addEventListener('click', function(e){
+    e.preventDefault();
+    allOpen = !allOpen;
+    document.querySelectorAll('.card').forEach(function(card){
+      var body = card.querySelector('.body');
+      if(!body) return;
+      card.classList.toggle('open', allOpen);
+      body.style.maxHeight = allOpen ? body.scrollHeight + 'px' : '0px';
+    });
+    toggleAll.textContent = allOpen ? 'Collapse all' : 'Expand all';
+  });
+
+  // keep open cards sized correctly on resize
+  window.addEventListener('resize', function(){
+    document.querySelectorAll('.card.open .body').forEach(function(b){
+      b.style.maxHeight = b.scrollHeight + 'px';
+    });
+  });
+</script>
+</body>
+</html>

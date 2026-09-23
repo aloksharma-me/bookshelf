@@ -1,0 +1,52 @@
+# [[00 User Friendly – How the Hidden Rules of Design are Changing the Way We Live, Work & Play]]
+
+---
+
+# 1 – Confusion
+- All told, there are eleven hundred dials, gauges, and switch indicators, and more than six hundred warning lights. At this moment, it seems like every one of them is wailing. The room is buried in noise. Here, at a critical moment, the machine is generating not just noise but chaos in the minds of its operators. The taint of that chaos will linger for hours.5 What on earth does any of it mean? How do you find the one thing wrong when the system is telling you there are hundreds?
+- But you shut down one light and another goes off; the way it’s all designed—or isn’t designed—makes it impossible to imagine how it’s all linked, or how one missed signal can cascade.
+- The pressure begins to rise slowly at first, then quicker. What the hell is happening? To 160 inches, 180 inches, 190, 200. And then a spike: 350, higher than they’d ever seen. Worry starts creeping through the room’s cool professionalism.
+- “Okay, we’re going solid!” This is everyone’s greatest fear. “Going solid” means that the reactor loop is filling completely with water, so the pressure will just build until the pipes burst, draining the reactor.
+- Hurriedly, the men switch off the emergency pumps, to keep them from adding more water to the core.8 It will turn out to be the day’s single worst decision.
+- There’s a gauge in the control room that should have the answer. It’s hard to find, squirreled away out of sight on the back of a control panel on the other side of the room. The man sent to check the gauge finds it, and sees that it looks fine. But he’s looked at the wrong one.
+- when you look hard enough at monumental machine disasters, you can usually find a design problem. It’s almost always the case when planes crash.
+- In fact, a misread signal at the worst possible time was responsible for the burning of Notre-Dame in 2019: A state-of-the-art fire system with inscrutable controls led to a bungled inspection while the blaze grew unchecked for thirty minutes.
+- In the era before user experience came to define digital life in the twenty-first century, [[Don Norman]] was the Moses of product design:
+- “Designers don’t analyze, they put together.
+- Today, “design thinking”—the processes that inform modern design—has spread far beyond the design firm IDEO, which was a pioneer in marketing the movement.
+- Early in his career, Norman spent years classifying the many ways people err when a task is set before them.
+- “The problem was that they spent so much time designing the technical parts, and none on understanding what it was like to work there, what was going on for people,” Norman recalled. “The control room was done last, almost an afterthought when there wasn’t time or money left.”
+- Those examples and others made Norman “realize that there wasn’t any understanding of technology combined with psychology. We were building technology for people, but the technologists didn’t understand people.”
+- You have to know why people behave as they do—and design around their foibles and limitations, rather than some ideal.
+- It’s no surprise then that the reasons a bad app drives you crazy have a direct relationship to the reasons that Three Mile Island almost melted into the earth.
+- The problems that caused Three Mile Island are similar to the ones that frustrate you when you’re trying to turn off the notifications on your smartphone; the inscrutability of a poorly designed light switch shares the same cause as your inscrutable cable box: a button that seems misplaced, a pop-up message that vanishes before you can figure out what it means, the sense that you did something but you don’t know what. The presiding notion that you don’t know how something works.
+- Yet, as investigators later learned, the so-called PORV (pilot-operated release valve) light was designed around a deep conceptual error: it turned off when someone flipped the switch controlling the valve—not when the valve actually closed.
+- So, measured by what might have been, it’s reasonable to call Three Mile Island the biggest design failure in American history. It’s also the most instructive.
+- And yet even today, the few reports on TMI still blame “equipment failures and operator errors.”22 That’s not it at all. At Three Mile Island, there were no grand equipment failures. The staff were some of the industry’s best, and, incredibly, they never panicked.
+- What happened instead was that the men, thanks to catastrophically bad control-room design, were unable to understand what was going wrong.
+- The investigators who descended upon TMI in the wake of the accident reported that there were fourteen different meanings for red, and eleven for green. The consistency we now expect in countless rounded buttons and red warning lights was totally absent at Three Mile Island.
+- Sometimes the lights were above the control they corresponded to, sometimes off to the side. They weren’t even grouped in a way that made sense: On the very same panel that would warn of water leaking from the reactor were alarm lights indicating elevator trouble.
+- One reason we find apps easy to understand even if we’ve never used them before is that navigability and consistency are so ingrained into the patterns of app design today. Menus all largely behave the same way; so do swipes and taps.
+- When something works well enough for you to predict what it’ll do next, you eventually form a mental model of it.
+- Meaningless alarms, information clustered nonsensically, no consistency anywhere—these things translated to no mapping, no navigability, no mental models. These are tenets that everyone who owns a smartphone today takes for granted. These are the principles that make the user-friendly world work.
+- Feedback that works surrounds us every day, so we rarely think about it. It’s feedback that defines how a product behaves in response to what you want. It’s feedback that allows designers to communicate to their users in a language without words. Feedback is the keystone of the user-friendly world.
+- Feedback is what links the ineffable stuff in our minds—the things we want—with the machinery of our bodies and the information from our environment.
+- Feedback is what allows information to become action—and not just at the level of data, neurons, and nerves.
+- When you put your bread in the toaster, you push the lever, and it clicks when you’ve pressed it far enough to turn the toaster on. Then you hear the filaments start to hum with electric current, a sign that the toaster has in fact turned on. You’re getting feedback all along the way that the toaster has done what you’d wanted it to do. There was the click of the button, which had to be designed and engineered. And there was the sound of the wires heating up, which is simply a useful by-product of the toaster’s physics. Without all those signals along the way, you’d just be endlessly fiddling, trying to understand whether the toaster was working.
+- The natural world is filled with feedback; in the man-made world, that feedback has to be designed.
+- Even climate change can be seen as a feedback problem. We cannot see our everyday contributions to carbon emissions, and the timeline is too long for us to see their effects.
+- There may be no greater design challenge for the twenty-first century than creating better, tighter feedback loops in places where they don’t exist, be they in the environment, health care, or government.
+- Even the biggest startup of the last fifteen years, Facebook, was a company formed because of feedback. The Like button offered nothing less than a new way to send and receive affirmation, and in so doing, it rewired the social fabric of one-third of the world.
+- While the goal of most feedback is just to reassure us that something has gone as we expected, there are higher values and needs that feedback can address, whether they be soothing us or making us anxious or spurring our competitive instincts.
+- And differing approaches to feedback lie behind two of the most successful startups in recent history: Instagram and Snapchat.
+- Forty years after Three Mile Island, feedback is more than just what makes machines intelligible. When feedback is tied not merely to the way machines work but instead to the things we value most—our social circles, our self-image—it can become the map by which we chart our lives.
+- In an era when how a product feels to use is the measure of how much we’ll use it, this is everything.
+- Mental models are nothing more and nothing less than the intuitions we have about how something works—how its pieces and functions fit together.
+- you might describe the entire task of user experience as the challenge of fitting a new product to our mental models of how things should work.
+- When we can’t assume how a gadget works, we use feedback—in the form of trial and error—to form a hazy mental model of its logic.
+- I could see how it had been remade to create a mental model of the entire reactor.
+- Each control panel represented a discrete system—for example, the secondary circulation system or the reactor core—so that when I surveyed the room, I could see how those systems linked up, each flowing from one to the next. The reactor had been mapped to the room—
+- When workers would go to confirm some crucial reading, they went in pairs: One would do an action, the next one would confirm the action; the first one would confirm the action had been done right, then the second one would as well.
+- Almost all of design stems from making sure that a user can figure out what to do, and can tell what’s going on.
+
+---

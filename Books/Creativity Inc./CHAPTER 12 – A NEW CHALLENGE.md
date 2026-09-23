@@ -1,0 +1,26 @@
+# [[01. Creativity, Inc. by Ed Catmull]]
+
+---
+
+# CHAPTER 12 – A NEW CHALLENGE
+- A few months later, in January of 2006, the deal went through. But Walt Disney Company’s acquisition of Pixar Animation Studios for $7.4 billion was not your typical merger. Steve had made sure of that. He proposed that John and I be put in charge of both Pixar and Disney Animation—I’d be president and John chief creative officer—because he thought, and Bob agreed, that if the leadership of the two studios were separate, an unhealthy competition would emerge that would eventually drag both studios down. 
+- “The Five Year Social Compact.” This seven-page, single-spaced list was an enumeration of all the things that had to remain the same at Pixar, should the merger go through. 
+- The document’s fifty-nine bullet points addressed many topics you might expect: compensation, HR policies, vacation, and benefits. (Item number 1 ensured that Pixar’s executive team could still reward employees with bonuses, as Pixar has always done, once a film’s box-office receipts reached a certain benchmark.) Others were strictly related to personal expression. (Number 11, for example, stated that Pixar employees must remain free to exercise their creative freedom with their titles and names on their business cards; number 33 ensured that Pixar’s people could continue to exert “personal cube/office/space decorating to reflect person’s individuality.”) Some sought to preserve popular company rituals. (Number 12: “Event parties (holiday, wrap, various events) are prevalent at Pixar. Various holiday parties, end of film parties, the annual car show, the paper airplane contest, Cinco de Mayo festivities and the summer barbecue to name a few.”) Some sought to ensure the survival of Pixar’s egalitarian ethos. (Number 29: “No assigned parking for any employee, including executives. All spaces are first-come, first served.”) 
+- It is a tenet of the Pixar culture that people should work there because they want to, not because a contract requires them to, and as a result, no one at Pixar was under contract. 
+- One of our most pressing orders of business, then, would be some basic remodeling. First, we turned the off-putting executive suite on the top floor into two spacious story rooms where filmmakers could gather to brainstorm about their films. 
+- John and I put our offices on the second floor, right in the middle of things, and removed the secretarial cubicles that had functioned as a sort of obstacle to access (instead, most secretaries got their own offices). 
+- John and I made a point of leaving the shades on our office windows open so that people could see us and we could see them. Our goal—in our words and our actions—was to communicate transparency. 
+- We made the decision early on that we would keep Pixar and Disney Animation completely separate. 
+- Some things that needed fixing at the studio were glaringly obvious. For example, as we talked to Disney directors, we discovered that they were used to receiving three sets of notes on their films. One came from the studio’s development department, another from the head of the studio, and a third from Michael Eisner himself. 
+- The notes were not, in fact, “notes.” They were mandatory, delivered as a list, with boxes next to each item—boxes that had to be checked as each note was executed. Even worse: None of the people who were giving these notes had ever made a film before, and the three sets of notes often conflicted with one another, creating a sort of schizophrenic quality to the feedback. 
+- This concept, completely counter to what we believed and practiced at Pixar, could only result in an inferior product, so we made an announcement: From that day forward, there would be no more mandatory notes. 
+- I wanted to break that cycle. I believed that it was our responsibility to make sure that Disney Animation was a place that people would want to work; if our most talented people could leave, then we would have to be on our toes to keep them happy. When someone had a problem, we wanted it to be brought quickly to the surface, not to fester. 
+- Why? Because mixing the two staffs would have been a bureaucratic nightmare. 
+- But there was an overarching management principle at work as well. Simply put, we wanted each studio to know that it could stand on its own and solve its own problems. If we made it easy for one studio to borrow people or resources from the other to help solve a problem, the upshot would be that we’d mask the problem. 
+- Today, directors and writers at Disney can’t imagine developing an idea for a film without doing research. 
+- Quality meant that every aspect—not just the rendering and the storytelling but also the positioning and the marketing—needed to be done well, which meant being open to reasoned opinions, even when they contradicted our own. 
+- Determined not to repeat the mistake we’d made with The Princess and the Frog, we changed the movie’s title from Rapunzel to the more gender-neutral Tangled. 
+- Released in November 2010, Tangled was a runaway success, artistically and commercially. 
+- We had learned long ago that while everyone appreciates cash bonuses, they value something else almost as much: being looked in the eye by someone they respect and told, “Thank you.” 
+
+---

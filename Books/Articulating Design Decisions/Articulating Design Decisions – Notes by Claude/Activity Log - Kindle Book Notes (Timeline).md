@@ -1,0 +1,24 @@
+- 28 June, 2026 (Sunday): Asked Claude to extract my highlights from the first book in my Kindle library and save them as a markdown note.
+    - Claude logged into read.amazon.com/notebook, opened *Don't Call It Art: 10 Ways to Create Like a Kid Again* by Austin Kleon, extracted all 75 highlights (locations 103–747), and wrote them as bullet points with each Kindle location.
+    - Result: a clean primary note with all 75 highlights.
+    - Then I asked Claude to reformat the file and remove the "(Location xxx)" markers → it stripped them, leaving plain bullets.
+    - Then I asked Claude to create backlinked companion notes (Quotes, Bibliography, Words, Ideas), each named with the note context + book name, `[[wikilinked]]` both ways → it built all four (17 quotes, referenced books/films, 12 terms, 11 ideas) and flagged two guessed attributions.
+    - Then I asked Claude to turn this whole workflow into a skill → it created and packaged the `kindle-book-notes` skill as an installable file.
+    - Chat: local_56ac7526-83f4-4b89-a5fe-d3533006841d ("Kindle highlights extraction")
+- 28 June, 2026 (Sunday), ~11:28am: Asked Claude to make the same set of notes for *Articulating Design Decisions* by Tom Greever.
+    - Claude extracted all 549 highlights via the browser, wrote the primary note, and verified the count matched.
+    - Created the four companions: Quotes (7), Bibliography (people/companies/frameworks), Words (~16 terms), Ideas (13). Normalized smart quotes to ASCII and flagged one inferred attribution.
+    - Result: 5 linked notes, verified at exactly 549 highlights.
+    - Then I asked Claude to split the main note into per-chapter notes (named Chapter + Book), in a new folder, with H3 sub-headings and a chapter summary on top, keeping the main note intact → it created 11 chapter notes in a `Chapters/` folder (verified 11 titles + 178 H3s + 360 bullets = 549).
+    - Then I asked Claude to add the chapter-split step into the `kindle-book-notes` skill → it couldn't edit the skill directly but gave me the exact SKILL.md text to paste in, including an updated "What this produces" section.
+    - Chat: local_5f793903-01c6-4749-9883-cf4ae9572e17 ("Articulating Design Decisions notes")
+- 28 June, 2026 (Sunday), afternoon: Asked Claude to make book notes for "Rafa" from my Kindle library.
+    - Claude searched the library, confirmed the right edition (*Rafa: My Story* by Rafael Nadal & John Carlin), and extracted all 56 highlights (locations 49–3,134).
+    - Spotted that Chapter 7's marker wasn't highlighted, web-searched to confirm its title ("Mind Over Matter"), and placed the orphaned highlight there — flagged for me.
+    - Result: primary note + four companions + a `Chapters/` folder (chapters 1–9), all cross-linked; faithfulness check passed (43 bullets + 5 sub-headings + 8 chapter markers = 56).
+    - Chat: local_42ecfc12-475e-41be-a8c2-87678e076e28 ("Rafa book highlights")
+- 29 June, 2026 (Monday), ~02:16am: Asked Claude to fix the heading hierarchy in the Articulating Design Decisions main note so it matches the book.
+    - Claude opened the actual Kindle reader (ASIN B08FVV7PDN), pulled the book's Table of Contents, and reformatted the note: chapter names → `##`, the 45 TOC section titles → `###`, the 133 non-TOC sub-sections → `#####`, with `---` dividers between chapters and official chapter names instead of `[ 1 ]` notation.
+    - Result: rebuilt main note, verified at 360 bullets + 45 headings + 133 sub-headings + 11 chapters = 549.
+    - Then I asked Claude to convert each chapter note's summary into an Obsidian "Summary" callout that shows in both preview and markdown modes → it wrapped all 11 summaries in `> [!Summary]` callouts.
+    - Chat: local_8ec363cb-00ab-4f3e-b914-ec3e53978838 ("Articulating Design Decisions formatting")
