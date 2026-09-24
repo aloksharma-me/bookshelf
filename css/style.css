@@ -1,14 +1,14 @@
 :root {
-  --paper: #f3efe6;
-  --paper-2: #ebe6da;
-  --text: #1d1b17;
-  --muted: #736d62;
-  --faint: #a8a194;
-  --rule: #d8d1c2;
-  --plank: #cfc6b3;
+  --paper: #ffffff;
+  --paper-2: #f4f4f4;
+  --text: #1a1a1a;
+  --muted: #6b6b6b;
+  --faint: #a3a3a3;
+  --rule: #e6e6e6;
+  --plank: #d6d6d6;
   --accent: #8a3b2e;
   --mark: #f1d88a;
-  --shadow: 0 1px 0 rgba(0,0,0,.04), 0 8px 24px -12px rgba(40,30,10,.25);
+  --shadow: 0 1px 0 rgba(0,0,0,.04), 0 8px 24px -12px rgba(0,0,0,.22);
   --sans: 'DM Sans', ui-sans-serif, system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif;
   --mono: 'IBM Plex Mono', ui-monospace, 'SF Mono', Menlo, monospace;
   --gutter: clamp(16px, 4vw, 48px);
